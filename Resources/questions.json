@@ -1,0 +1,442 @@
+{
+  "questions": [
+    {
+      "id": "m1u1-q1", "module": 1, "unit": 1, "type": "matching", "difficulty": 1,
+      "stem_en": "Read the sentence and identify the word class of the underlined word: She read the book *quickly*.",
+      "stem_fa": "جمله را بخوانید و طبقهٔ واژگانی واژهٔ مشخص‌شده را تعیین کنید: She read the book *quickly*.",
+      "options": [
+        { "key": "A", "text_en": "adjective", "text_fa": "صفت" },
+        { "key": "B", "text_en": "verb", "text_fa": "فعل" },
+        { "key": "C", "text_en": "adverb", "text_fa": "قید" }
+      ],
+      "answer": ["C"], "key_terms": ["Adverb", "Adjective"],
+      "explanation_en": "'Quickly' describes HOW she read — it modifies the verb 'read', so it is an adverb (many, not all, end in -ly). A is wrong: an adjective describes a noun (e.g. a *quick* reader), but here there is no noun being described. B is wrong: the verb is 'read', not 'quickly'.",
+      "explanation_fa": "«Quickly» می‌گوید او چگونه خواند — فعل «read» را توصیف می‌کند، پس قید (adverb) است (بسیاری، نه همه، به -ly ختم می‌شوند). گزینهٔ A غلط است: صفت اسم را توصیف می‌کند (مثل a *quick* reader)، اما اینجا اسمی توصیف نمی‌شود. گزینهٔ B غلط است: فعلِ جمله «read» است، نه «quickly»."
+    },
+    {
+      "id": "m1u1-q2", "module": 1, "unit": 1, "type": "mcq", "difficulty": 2,
+      "stem_en": "Which tense is used here? 'I have lived in Tehran for ten years.'",
+      "stem_fa": "اینجا کدام زمان فعل به‌کار رفته است؟ 'I have lived in Tehran for ten years.'",
+      "options": [
+        { "key": "A", "text_en": "past simple", "text_fa": "گذشتهٔ ساده" },
+        { "key": "B", "text_en": "present perfect", "text_fa": "حال کامل" },
+        { "key": "C", "text_en": "present continuous", "text_fa": "حال استمراری" }
+      ],
+      "answer": ["B"], "key_terms": ["Tense"],
+      "explanation_en": "'have + past participle (lived)' is the present perfect, used for an action that started in the past and continues now ('for ten years'). A (past simple) would be 'I lived' and suggests it is finished. C (present continuous) is 'am living' and describes a temporary action in progress, not a ten-year span with 'for'.",
+      "explanation_fa": "ساختار «have + اسم مفعول (lived)» حال کامل (present perfect) است که برای کنشی به‌کار می‌رود که در گذشته شروع شده و تا حالا ادامه دارد («for ten years»). گزینهٔ A (گذشتهٔ ساده) می‌شد «I lived» و یعنی تمام شده. گزینهٔ C (حال استمراری) «am living» است و کنشی موقت و در حال انجام را نشان می‌دهد، نه بازهٔ ده‌ساله با «for»."
+    },
+    {
+      "id": "m1u1-q3", "module": 1, "unit": 1, "type": "matching", "difficulty": 1,
+      "stem_en": "Identify the word class of 'between' in: 'The ball is *between* the chairs.'",
+      "stem_fa": "طبقهٔ واژگانی «between» را تعیین کنید: 'The ball is *between* the chairs.'",
+      "options": [
+        { "key": "A", "text_en": "conjunction", "text_fa": "حرف ربط" },
+        { "key": "B", "text_en": "preposition", "text_fa": "حرف اضافه" },
+        { "key": "C", "text_en": "pronoun", "text_fa": "ضمیر" }
+      ],
+      "answer": ["B"], "key_terms": ["Preposition", "Conjunction", "Pronoun"],
+      "explanation_en": "'Between' shows the position/relationship of the ball to the chairs, so it is a preposition. A is wrong: a conjunction joins clauses or words (and, but, because). C is wrong: a pronoun replaces a noun (it, they) — 'between' does not replace anything.",
+      "explanation_fa": "«Between» جایگاه/رابطهٔ توپ نسبت به صندلی‌ها را نشان می‌دهد، پس حرف اضافه (preposition) است. گزینهٔ A غلط است: حرف ربط واژه‌ها یا بندها را به هم می‌پیوندد (and, but, because). گزینهٔ C غلط است: ضمیر جای اسم می‌نشیند (it, they) — «between» جای چیزی نمی‌نشیند."
+    },
+    {
+      "id": "m1u1-q4", "module": 1, "unit": 1, "type": "odd_one_out", "difficulty": 2,
+      "stem_en": "Which word is a determiner?",
+      "stem_fa": "کدام واژه یک تعیین‌کننده (determiner) است؟",
+      "options": [
+        { "key": "A", "text_en": "happy", "text_fa": "happy" },
+        { "key": "B", "text_en": "the", "text_fa": "the" },
+        { "key": "C", "text_en": "run", "text_fa": "run" }
+      ],
+      "answer": ["B"], "key_terms": ["Determiner", "Adjective", "Verb"],
+      "explanation_en": "'The' is a determiner — it comes before a noun to identify it (the book). A 'happy' is an adjective (describes a noun). C 'run' is a verb (an action). Determiners include articles (a/an/the), possessives (my, your) and demonstratives (this, that).",
+      "explanation_fa": "«The» تعیین‌کننده است — پیش از اسم می‌آید تا آن را معرفی کند (the book). گزینهٔ A یعنی «happy» صفت است (اسم را توصیف می‌کند). گزینهٔ C یعنی «run» فعل است (کنش). تعیین‌کننده‌ها شامل حروف تعریف (a/an/the)، ملکی‌ها (my, your) و اشاره‌ای‌ها (this, that) هستند."
+    },
+    {
+      "id": "m1u2-q1", "module": 1, "unit": 2, "type": "mcq", "difficulty": 2,
+      "stem_en": "Which word collocates naturally with 'heavy'?",
+      "stem_fa": "کدام واژه به‌طور طبیعی با «heavy» هم‌آیی (collocation) دارد؟",
+      "options": [
+        { "key": "A", "text_en": "rain", "text_fa": "rain (باران)" },
+        { "key": "B", "text_en": "sun", "text_fa": "sun (خورشید)" },
+        { "key": "C", "text_en": "wind", "text_fa": "wind (باد)" }
+      ],
+      "answer": ["A"], "key_terms": ["Collocation"],
+      "explanation_en": "'Heavy rain' is a fixed, natural word partnership (collocation). We do not say 'heavy sun' (we say 'strong sun') or 'heavy wind' (we say 'strong wind'). Collocations must be learned as chunks, not worked out by rules.",
+      "explanation_fa": "«Heavy rain» یک هم‌نشینی طبیعی و تثبیت‌شده (collocation) است. نمی‌گوییم «heavy sun» (می‌گوییم «strong sun») یا «heavy wind» (می‌گوییم «strong wind»). هم‌آیی‌ها را باید به‌صورت بستهٔ آماده (chunk) یاد گرفت، نه با قاعده ساخت."
+    },
+    {
+      "id": "m1u2-q2", "module": 1, "unit": 2, "type": "mcq", "difficulty": 1,
+      "stem_en": "In the word 'unhappy', what does the prefix 'un-' do?",
+      "stem_fa": "در واژهٔ «unhappy»، پیشوند «un-» چه نقشی دارد؟",
+      "options": [
+        { "key": "A", "text_en": "makes it negative (not)", "text_fa": "آن را منفی می‌کند (نه)" },
+        { "key": "B", "text_en": "makes it past", "text_fa": "آن را گذشته می‌کند" },
+        { "key": "C", "text_en": "makes it plural", "text_fa": "آن را جمع می‌کند" }
+      ],
+      "answer": ["A"], "key_terms": ["Prefix", "Affix"],
+      "explanation_en": "'un-' is a prefix that gives a negative/opposite meaning: happy -> unhappy (= not happy). B is wrong: tense is shown by verb endings/forms, not 'un-'. C is wrong: plurals are usually shown by '-s'. A prefix is an affix added at the START of a word.",
+      "explanation_fa": "«un-» پیشوندی است که معنای منفی/متضاد می‌دهد: happy ← unhappy (یعنی «نه شاد»). گزینهٔ B غلط است: زمان با پایانه/شکل فعل نشان داده می‌شود، نه «un-». گزینهٔ C غلط است: جمع معمولاً با «-s» نشان داده می‌شود. پیشوند، وندی است که به ابتدای واژه افزوده می‌شود."
+    },
+    {
+      "id": "m1u2-q3", "module": 1, "unit": 2, "type": "matching", "difficulty": 2,
+      "stem_en": "Which item is a phrasal verb?",
+      "stem_fa": "کدام مورد یک فعل عبارتی (phrasal verb) است؟",
+      "options": [
+        { "key": "A", "text_en": "look after", "text_fa": "look after" },
+        { "key": "B", "text_en": "beautiful", "text_fa": "beautiful" },
+        { "key": "C", "text_en": "quickly", "text_fa": "quickly" }
+      ],
+      "answer": ["A"], "key_terms": ["Phrasal verb", "Idiom"],
+      "explanation_en": "'Look after' = verb + particle, with a meaning (take care of) that is not the sum of its parts — a phrasal verb. B 'beautiful' is an adjective; C 'quickly' is an adverb. Phrasal verbs are multi-word lexical items and must be learned as units.",
+      "explanation_fa": "«Look after» = فعل + جزء (particle) با معنایی (مراقبت کردن) که از جمع اجزایش به دست نمی‌آید — یک فعل عبارتی است. گزینهٔ B «beautiful» صفت و گزینهٔ C «quickly» قید است. افعال عبارتی واحدهای واژگانی چندکلمه‌ای‌اند و باید به‌صورت واحد یاد گرفته شوند."
+    },
+    {
+      "id": "m1u2-q4", "module": 1, "unit": 2, "type": "mcq", "difficulty": 1,
+      "stem_en": "'Blackboard' (black + board) is an example of a:",
+      "stem_fa": "«Blackboard» (black + board) نمونه‌ای است از:",
+      "options": [
+        { "key": "A", "text_en": "compound noun", "text_fa": "اسم مرکب" },
+        { "key": "B", "text_en": "idiom", "text_fa": "اصطلاح" },
+        { "key": "C", "text_en": "synonym", "text_fa": "مترادف" }
+      ],
+      "answer": ["A"], "key_terms": ["Compound", "Idiom", "Synonym"],
+      "explanation_en": "Joining two words to make a new one (black + board) creates a compound — here a compound noun. B is wrong: an idiom is a fixed expression whose meaning is not literal (e.g. 'kick the bucket'). C is wrong: synonyms are words with similar meaning (big/large).",
+      "explanation_fa": "پیوند دو واژه برای ساختن واژه‌ای جدید (black + board) یک واژهٔ مرکب (compound) می‌سازد — اینجا اسم مرکب. گزینهٔ B غلط است: اصطلاح عبارتی ثابت است که معنایش تحت‌اللفظی نیست (مثل «kick the bucket»). گزینهٔ C غلط است: مترادف‌ها واژه‌هایی با معنای مشابه‌اند (big/large)."
+    },
+    {
+      "id": "m1u11-q1", "module": 1, "unit": 11, "type": "mcq", "difficulty": 3,
+      "stem_en": "A learner says 'I goed home'. This is best described as:",
+      "stem_fa": "یک زبان‌آموز می‌گوید «I goed home». این مورد را بهتر است چگونه توصیف کرد:",
+      "options": [
+        { "key": "A", "text_en": "a slip (knows the rule, careless error)", "text_fa": "لغزش (قاعده را می‌داند، خطای بی‌دقتی)" },
+        { "key": "B", "text_en": "an overgeneralisation", "text_fa": "تعمیم افراطی (overgeneralisation)" },
+        { "key": "C", "text_en": "L1 interference", "text_fa": "تداخل زبان اول" }
+      ],
+      "answer": ["B"], "key_terms": ["Error", "Overgeneralisation", "Interference"],
+      "explanation_en": "The learner has applied the regular '-ed' past rule to an irregular verb (go -> went), so it is an overgeneralisation — a developmental error showing learning is happening. A is wrong: a slip is when a learner who KNOWS the form makes a careless one-off mistake and can self-correct. C is wrong: interference would be an error caused by the first language, not by over-applying an English rule.",
+      "explanation_fa": "زبان‌آموز قاعدهٔ منظمِ گذشته با «-ed» را روی یک فعل بی‌قاعده (go ← went) به‌کار برده، پس این تعمیم افراطی (overgeneralisation) است — خطایی تحولی که نشان می‌دهد یادگیری در حال رخ دادن است. گزینهٔ A غلط است: لغزش وقتی است که زبان‌آموزی که شکل را می‌داند یک اشتباه بی‌دقتی موردی می‌کند و می‌تواند خودش اصلاح کند. گزینهٔ C غلط است: تداخل، خطایی است که از زبان اول ناشی می‌شود، نه از به‌کار بستن افراطیِ یک قاعدهٔ انگلیسی."
+    },
+    {
+      "id": "m3u30-q1", "module": 3, "unit": 30, "type": "mcq", "difficulty": 2,
+      "stem_en": "Learners do a group task while the teacher stands back and only helps when asked. Which role is the teacher mainly taking?",
+      "stem_fa": "زبان‌آموزان تکلیف گروهی انجام می‌دهند و معلم کنار می‌ایستد و فقط وقتی از او خواسته شود کمک می‌کند. معلم بیشتر کدام نقش را دارد؟",
+      "options": [
+        { "key": "A", "text_en": "controller", "text_fa": "کنترل‌کننده" },
+        { "key": "B", "text_en": "facilitator", "text_fa": "تسهیل‌گر" },
+        { "key": "C", "text_en": "assessor", "text_fa": "ارزیاب" }
+      ],
+      "answer": ["B"], "key_terms": ["Teacher role", "Facilitator", "Monitor"],
+      "explanation_en": "Standing back and supporting only when needed is the facilitator role — it maximises learner autonomy and talking time. A (controller) leads from the front and directs everything. C (assessor) focuses on judging/marking performance, which is not what is happening here.",
+      "explanation_fa": "کنار ایستادن و کمک فقط هنگام نیاز، نقش تسهیل‌گر (facilitator) است — استقلال زبان‌آموز و زمان صحبت او را بیشینه می‌کند. گزینهٔ A (کنترل‌کننده) از جلو هدایت می‌کند و همه‌چیز را خودش می‌گرداند. گزینهٔ C (ارزیاب) بر قضاوت/نمره‌دادن تمرکز دارد که اینجا رخ نمی‌دهد."
+    },
+    {
+      "id": "m3u32-q1", "module": 3, "unit": 32, "type": "mcq", "difficulty": 3,
+      "stem_en": "During a freer fluency speaking activity, the most appropriate approach to correction is usually to:",
+      "stem_fa": "در یک فعالیت گفتاریِ آزادِ مبتنی بر روانی، مناسب‌ترین رویکرد به تصحیح معمولاً این است که:",
+      "options": [
+        { "key": "A", "text_en": "correct every error immediately", "text_fa": "هر خطا را فوراً تصحیح کنیم" },
+        { "key": "B", "text_en": "note errors and give delayed feedback afterwards", "text_fa": "خطاها را یادداشت و بازخورد را با تأخیر بعد بدهیم" },
+        { "key": "C", "text_en": "ignore all language completely", "text_fa": "کل زبان را کاملاً نادیده بگیریم" }
+      ],
+      "answer": ["B"], "key_terms": ["Correction", "Delayed correction", "Fluency"],
+      "explanation_en": "In fluency activities the aim is communication, so immediate correction (A) interrupts the flow and discourages learners; the usual choice is to monitor, note errors and give delayed feedback afterwards (B). C is wrong: ignoring everything wastes useful feedback — the teacher still records errors to deal with later.",
+      "explanation_fa": "در فعالیت‌های روانی هدف، ارتباط است؛ پس تصحیح فوری (گزینهٔ A) جریان را قطع می‌کند و زبان‌آموز را دلسرد می‌کند؛ انتخاب رایج این است که معلم نظارت کند، خطاها را یادداشت و بازخورد را با تأخیر بدهد (گزینهٔ B). گزینهٔ C غلط است: نادیده‌گرفتن کامل، بازخورد مفید را هدر می‌دهد — معلم همچنان خطاها را برای رسیدگی بعدی ثبت می‌کند."
+    },
+    {
+      "id": "m1u15-q1", "module": 1, "unit": 15, "type": "mcq", "difficulty": 2,
+      "stem_en": "An approach in which learners complete a meaningful task and language is dealt with afterwards is:",
+      "stem_fa": "رویکردی که در آن زبان‌آموزان یک تکلیف معنادار را کامل می‌کنند و زبان بعد از آن بررسی می‌شود، چه نام دارد؟",
+      "options": [
+        { "key": "A", "text_en": "Grammar-Translation", "text_fa": "دستور-ترجمه" },
+        { "key": "B", "text_en": "Task-Based Learning (TBL)", "text_fa": "یادگیری مبتنی بر تکلیف (TBL)" },
+        { "key": "C", "text_en": "Audiolingualism", "text_fa": "روش شنیداری-گفتاری" }
+      ],
+      "answer": ["B"], "key_terms": ["Task-Based Learning", "Approach", "Method"],
+      "explanation_en": "Task-Based Learning puts a communicative task first and focuses on language that arises from it afterwards. A (Grammar-Translation) centres on translating sentences and explicit grammar rules. C (Audiolingualism) is based on drills and habit formation, not on meaningful tasks.",
+      "explanation_fa": "یادگیری مبتنی بر تکلیف ابتدا یک تکلیف ارتباطی را قرار می‌دهد و سپس روی زبانی که از آن برمی‌خیزد تمرکز می‌کند. گزینهٔ A (دستور-ترجمه) بر ترجمهٔ جمله‌ها و قواعد صریح دستوری متمرکز است. گزینهٔ C (شنیداری-گفتاری) بر تمرین‌های تکراری و عادت‌سازی استوار است، نه تکالیف معنادار."
+    },
+    {
+      "id": "m1u3-q1", "module": 1, "unit": 3, "type": "mcq", "difficulty": 1,
+      "stem_en": "Which of these is a minimal pair?",
+      "stem_fa": "کدام‌یک یک جفت کمینه (minimal pair) است؟",
+      "options": [
+        { "key": "A", "text_en": "ship / sheep", "text_fa": "ship / sheep" },
+        { "key": "B", "text_en": "happy / sad", "text_fa": "happy / sad" },
+        { "key": "C", "text_en": "run / running", "text_fa": "run / running" }
+      ],
+      "answer": ["A"], "key_terms": ["Minimal pair", "Phoneme"],
+      "explanation_en": "A minimal pair is two words that differ in only ONE phoneme: ship and sheep differ only in the vowel sound. B differ in meaning, not a single sound. C differ by a whole grammatical ending (-ing), not one phoneme.",
+      "explanation_fa": "جفت کمینه دو واژه است که فقط در یک واج فرق دارند: ship و sheep تنها در صدای مصوت تفاوت دارند. گزینهٔ B در معنا فرق دارند نه در یک صدا. گزینهٔ C با یک پایانهٔ دستوری کامل (-ing) فرق دارند، نه یک واج."
+    },
+    {
+      "id": "m1u3-q2", "module": 1, "unit": 3, "type": "mcq", "difficulty": 1,
+      "stem_en": "The strong (most prominent) syllable in a word is its ___.",
+      "stem_fa": "هجای قوی (برجسته‌ترین) در یک واژه، ___ آن است.",
+      "options": [
+        { "key": "A", "text_en": "phoneme", "text_fa": "واج" },
+        { "key": "B", "text_en": "word stress", "text_fa": "تکیهٔ واژه" },
+        { "key": "C", "text_en": "intonation", "text_fa": "آهنگ کلام" }
+      ],
+      "answer": ["B"], "key_terms": ["Stress", "Intonation", "Phoneme"],
+      "explanation_en": "Word stress is the syllable said with most prominence (e.g. PHOtograph). A phoneme is a single sound, not a syllable's prominence. Intonation is the rise and fall of the voice across an utterance, not the stressed syllable.",
+      "explanation_fa": "تکیهٔ واژه همان هجایی است که با بیشترین برجستگی گفته می‌شود (مثل PHOtograph). واج یک صدای منفرد است، نه برجستگیِ هجا. آهنگ کلام بالا و پایین‌رفتن صدا در طول گفته است، نه هجای تکیه‌دار."
+    },
+    {
+      "id": "m1u4-q1", "module": 1, "unit": 4, "type": "mcq", "difficulty": 1,
+      "stem_en": "'Could you open the window, please?' — which function does this perform?",
+      "stem_fa": "«Could you open the window, please?» — این جمله کدام کارکرد را انجام می‌دهد؟",
+      "options": [
+        { "key": "A", "text_en": "requesting", "text_fa": "درخواست‌کردن" },
+        { "key": "B", "text_en": "apologising", "text_fa": "عذرخواهی" },
+        { "key": "C", "text_en": "inviting", "text_fa": "دعوت‌کردن" }
+      ],
+      "answer": ["A"], "key_terms": ["Function", "Exponent"],
+      "explanation_en": "The speaker is asking someone to do something — this is requesting. Apologising would be 'I'm sorry...'; inviting would be 'Would you like to come...?'.",
+      "explanation_fa": "گوینده از کسی می‌خواهد کاری انجام دهد — این «درخواست» است. عذرخواهی می‌شد «I'm sorry...» و دعوت می‌شد «Would you like to come...?»."
+    },
+    {
+      "id": "m1u4-q2", "module": 1, "unit": 4, "type": "mcq", "difficulty": 2,
+      "stem_en": "Two different phrases that perform the same function are called different ___.",
+      "stem_fa": "دو عبارت متفاوت که یک کارکرد واحد را انجام می‌دهند، ___ مختلف نامیده می‌شوند.",
+      "options": [
+        { "key": "A", "text_en": "exponents", "text_fa": "نمودها (exponents)" },
+        { "key": "B", "text_en": "phonemes", "text_fa": "واج‌ها" },
+        { "key": "C", "text_en": "registers", "text_fa": "سطوح زبانی" }
+      ],
+      "answer": ["A"], "key_terms": ["Exponent", "Function", "Register"],
+      "explanation_en": "The actual phrases used to express a function are its exponents. Phonemes are sounds. Register is the level of formality, not the phrase itself.",
+      "explanation_fa": "عبارت‌هایی که برای بیان یک کارکرد به‌کار می‌روند «نمود/exponent» آن‌اند. واج‌ها صدا هستند. register سطح رسمی‌بودن است، نه خودِ عبارت."
+    },
+    {
+      "id": "m1u5-q1", "module": 1, "unit": 5, "type": "mcq", "difficulty": 1,
+      "stem_en": "A learner reads a text quickly just to get the general idea. This subskill is ___.",
+      "stem_fa": "زبان‌آموز متنی را سریع می‌خواند فقط برای گرفتن ایدهٔ کلی. این زیرمهارت ___ است.",
+      "options": [
+        { "key": "A", "text_en": "scanning", "text_fa": "اسکنینگ" },
+        { "key": "B", "text_en": "skimming", "text_fa": "اسکیمینگ" },
+        { "key": "C", "text_en": "reading for detail", "text_fa": "خواندن برای جزئیات" }
+      ],
+      "answer": ["B"], "key_terms": ["Skimming", "Scanning", "Gist"],
+      "explanation_en": "Reading quickly for the gist is skimming. Scanning is searching for specific information (a name, a number). Reading for detail is slow, careful reading for full understanding.",
+      "explanation_fa": "خواندن سریع برای گرفتن کلیت، اسکیمینگ است. اسکنینگ جست‌وجو برای اطلاعات خاص (اسم، عدد) است. خواندن برای جزئیات، خواندنِ آهسته و دقیق برای درک کامل است."
+    },
+    {
+      "id": "m1u5-q2", "module": 1, "unit": 5, "type": "mcq", "difficulty": 2,
+      "stem_en": "Looking through a train timetable to find one departure time is an example of ___.",
+      "stem_fa": "نگاه‌کردن به جدول قطار برای یافتن یک زمان حرکت، نمونه‌ای از ___ است.",
+      "options": [
+        { "key": "A", "text_en": "skimming", "text_fa": "اسکیمینگ" },
+        { "key": "B", "text_en": "inferring", "text_fa": "استنتاج" },
+        { "key": "C", "text_en": "scanning", "text_fa": "اسکنینگ" }
+      ],
+      "answer": ["C"], "key_terms": ["Scanning", "Skimming", "Inferring"],
+      "explanation_en": "Searching a text for one specific piece of information is scanning. Skimming is for the general idea; inferring is working out meaning that is not directly stated.",
+      "explanation_fa": "جست‌وجوی متن برای یک تکه اطلاعات خاص، اسکنینگ است. اسکیمینگ برای ایدهٔ کلی است؛ استنتاج یعنی به‌دست‌آوردن معنایی که مستقیم گفته نشده."
+    },
+    {
+      "id": "m1u6-q1", "module": 1, "unit": 6, "type": "mcq", "difficulty": 2,
+      "stem_en": "Linking words such as 'however' and 'because' mainly contribute to a text's ___.",
+      "stem_fa": "واژه‌های ربط مثل «however» و «because» عمدتاً به ___ متن کمک می‌کنند.",
+      "options": [
+        { "key": "A", "text_en": "cohesion", "text_fa": "انسجام (cohesion)" },
+        { "key": "B", "text_en": "handwriting", "text_fa": "دست‌خط" },
+        { "key": "C", "text_en": "pronunciation", "text_fa": "تلفظ" }
+      ],
+      "answer": ["A"], "key_terms": ["Coherence"],
+      "explanation_en": "Linking devices grammatically join ideas, creating cohesion. Handwriting and pronunciation are unrelated to how ideas connect in a written text.",
+      "explanation_fa": "ابزارهای ربط، ایده‌ها را به‌طور دستوری به هم می‌پیوندند و انسجام می‌سازند. دست‌خط و تلفظ ربطی به نحوهٔ اتصال ایده‌ها در متن نوشتاری ندارند."
+    },
+    {
+      "id": "m1u6-q2", "module": 1, "unit": 6, "type": "mcq", "difficulty": 1,
+      "stem_en": "Planning, drafting and editing are stages of the ___ approach to writing.",
+      "stem_fa": "برنامه‌ریزی، پیش‌نویس و ویرایش، مراحلِ رویکرد ___ به نوشتن‌اند.",
+      "options": [
+        { "key": "A", "text_en": "product", "text_fa": "محصول‌محور" },
+        { "key": "B", "text_en": "process", "text_fa": "فرایندمحور" },
+        { "key": "C", "text_en": "lexical", "text_fa": "واژگانی" }
+      ],
+      "answer": ["B"], "key_terms": ["Drafting"],
+      "explanation_en": "Working through stages (plan, draft, revise) is the process approach. The product approach focuses on a final model text. 'Lexical' refers to vocabulary, not a writing approach.",
+      "explanation_fa": "گذر از مراحل (برنامه، پیش‌نویس، بازنگری) رویکرد فرایندمحور است. رویکرد محصول‌محور بر متن نمونهٔ نهایی تمرکز دارد. «واژگانی» به دایرهٔ واژگان اشاره دارد، نه به رویکرد نوشتن."
+    },
+    {
+      "id": "m1u7-q1", "module": 1, "unit": 7, "type": "mcq", "difficulty": 1,
+      "stem_en": "Listening only to catch the speaker's general idea is listening for ___.",
+      "stem_fa": "گوش‌دادن فقط برای گرفتن ایدهٔ کلیِ گوینده، گوش‌دادن برای ___ است.",
+      "options": [
+        { "key": "A", "text_en": "detail", "text_fa": "جزئیات" },
+        { "key": "B", "text_en": "gist", "text_fa": "کلیت" },
+        { "key": "C", "text_en": "specific information", "text_fa": "اطلاعات خاص" }
+      ],
+      "answer": ["B"], "key_terms": ["Gist", "Prediction"],
+      "explanation_en": "Catching the general idea is listening for gist. Listening for detail means full, careful understanding; listening for specific information means catching one particular item (a time, a price).",
+      "explanation_fa": "گرفتن ایدهٔ کلی، گوش‌دادن برای کلیت است. گوش‌دادن برای جزئیات یعنی درک کامل و دقیق؛ گوش‌دادن برای اطلاعات خاص یعنی گرفتن یک مورد مشخص (زمان، قیمت)."
+    },
+    {
+      "id": "m1u7-q2", "module": 1, "unit": 7, "type": "mcq", "difficulty": 2,
+      "stem_en": "Saying 'What are you doing?' quickly as 'Whatcha doing?' is an example of ___.",
+      "stem_fa": "گفتنِ سریعِ «What are you doing?» به‌صورت «Whatcha doing?» نمونه‌ای از ___ است.",
+      "options": [
+        { "key": "A", "text_en": "connected speech", "text_fa": "گفتار پیوسته" },
+        { "key": "B", "text_en": "intonation", "text_fa": "آهنگ کلام" },
+        { "key": "C", "text_en": "a minimal pair", "text_fa": "جفت کمینه" }
+      ],
+      "answer": ["A"], "key_terms": ["Connected speech"],
+      "explanation_en": "When words join and weaken in natural speech, that is connected speech — a key reason listening is hard. Intonation is the melody of speech; a minimal pair is two words differing by one sound.",
+      "explanation_fa": "وقتی واژه‌ها در گفتار طبیعی به هم می‌چسبند و ضعیف می‌شوند، این «گفتار پیوسته» است — یکی از دلایل دشواریِ شنیدن. آهنگ کلام ملودیِ گفتار است؛ جفت کمینه دو واژه است که در یک صدا فرق دارند."
+    },
+    {
+      "id": "m1u8-q1", "module": 1, "unit": 8, "type": "mcq", "difficulty": 2,
+      "stem_en": "Learners chat freely to communicate and the teacher notes errors for later. This activity mainly develops ___.",
+      "stem_fa": "زبان‌آموزان آزادانه برای ارتباط گپ می‌زنند و معلم خطاها را برای بعد یادداشت می‌کند. این فعالیت عمدتاً ___ را توسعه می‌دهد.",
+      "options": [
+        { "key": "A", "text_en": "accuracy", "text_fa": "دقت" },
+        { "key": "B", "text_en": "fluency", "text_fa": "روانی" },
+        { "key": "C", "text_en": "spelling", "text_fa": "املا" }
+      ],
+      "answer": ["B"], "key_terms": ["Fluency", "Accuracy"],
+      "explanation_en": "Free communication with delayed correction builds fluency. Accuracy activities focus on producing correct forms during the task; spelling belongs to writing, not a speaking chat.",
+      "explanation_fa": "ارتباط آزاد با تصحیحِ باتأخیر، روانی می‌سازد. فعالیت‌های دقت روی تولید فرم‌های درست حین تکلیف تمرکز دارند؛ املا به نوشتن مربوط است، نه به گپِ گفتاری."
+    },
+    {
+      "id": "m1u8-q2", "module": 1, "unit": 8, "type": "mcq", "difficulty": 1,
+      "stem_en": "Knowing when to speak and when to let others speak is called ___.",
+      "stem_fa": "دانستن اینکه کِی صحبت کنیم و کِی به دیگران اجازهٔ صحبت بدهیم، ___ نام دارد.",
+      "options": [
+        { "key": "A", "text_en": "turn-taking", "text_fa": "نوبت‌گیری" },
+        { "key": "B", "text_en": "drafting", "text_fa": "پیش‌نویس‌نویسی" },
+        { "key": "C", "text_en": "scanning", "text_fa": "اسکنینگ" }
+      ],
+      "answer": ["A"], "key_terms": ["Turn-taking", "Interaction"],
+      "explanation_en": "Managing speaking turns in interaction is turn-taking. Drafting is a writing stage; scanning is a reading subskill.",
+      "explanation_fa": "مدیریت نوبت‌های گفتار در تعامل، نوبت‌گیری است. پیش‌نویس‌نویسی مرحله‌ای از نوشتن است؛ اسکنینگ زیرمهارتی از خواندن است."
+    },
+    {
+      "id": "m1u9-q1", "module": 1, "unit": 9, "type": "mcq", "difficulty": 2,
+      "stem_en": "A learner studies English because they love films and music in English. This is mainly ___ motivation.",
+      "stem_fa": "زبان‌آموزی انگلیسی می‌خواند چون عاشق فیلم و موسیقیِ انگلیسی است. این عمدتاً انگیزهٔ ___ است.",
+      "options": [ { "key": "A", "text_en": "intrinsic", "text_fa": "درونی" }, { "key": "B", "text_en": "extrinsic", "text_fa": "بیرونی" }, { "key": "C", "text_en": "instrumental", "text_fa": "ابزاری" } ],
+      "answer": ["A"], "key_terms": ["Motivation", "Intrinsic motivation"],
+      "explanation_en": "Enjoyment and interest from inside is intrinsic motivation. Extrinsic motivation comes from outside rewards (a job, a certificate). The driver here is personal enjoyment, so it is intrinsic.",
+      "explanation_fa": "لذت و علاقهٔ درونی، انگیزهٔ درونی است. انگیزهٔ بیرونی از پاداش‌های بیرونی (شغل، مدرک) می‌آید. محرکِ اینجا لذتِ شخصی است، پس درونی است."
+    },
+    {
+      "id": "m1u12-q1", "module": 1, "unit": 12, "type": "mcq", "difficulty": 2,
+      "stem_en": "A Persian speaker says 'I have 20 years' instead of 'I am 20'. This error is most likely caused by ___.",
+      "stem_fa": "فارسی‌زبانی می‌گوید «I have 20 years» به‌جای «I am 20». این خطا به‌احتمال زیاد ناشی از ___ است.",
+      "options": [ { "key": "A", "text_en": "overgeneralisation", "text_fa": "تعمیم افراطی" }, { "key": "B", "text_en": "L1 interference", "text_fa": "تداخل زبان اول" }, { "key": "C", "text_en": "a slip", "text_fa": "لغزش" } ],
+      "answer": ["B"], "key_terms": ["Interference", "L1"],
+      "explanation_en": "The structure copies the first language's way of stating age, so it is L1 interference. Overgeneralisation would be over-applying an English rule; a slip is a careless one-off the learner can self-correct.",
+      "explanation_fa": "این ساختار شیوهٔ زبان اول برای گفتنِ سن را کپی می‌کند، پس تداخلِ زبان اول است. تعمیم افراطی یعنی به‌کاربستنِ افراطیِ یک قاعدهٔ انگلیسی؛ لغزش یک اشتباهِ بی‌دقتیِ موردی است که زبان‌آموز خودش اصلاح می‌کند."
+    },
+    {
+      "id": "m1u16-q1", "module": 1, "unit": 16, "type": "mcq", "difficulty": 2,
+      "stem_en": "To check learners understand 'He used to smoke', the best technique is to ___.",
+      "stem_fa": "برای بررسی اینکه زبان‌آموز «He used to smoke» را فهمیده، بهترین فن ___ است.",
+      "options": [ { "key": "A", "text_en": "ask 'Do you understand?'", "text_fa": "پرسیدنِ «فهمیدید؟»" }, { "key": "B", "text_en": "ask concept checking questions (CCQs)", "text_fa": "پرسیدنِ سؤال‌های بررسی مفهوم (CCQ)" }, { "key": "C", "text_en": "translate it into the L1", "text_fa": "ترجمهٔ آن به زبان اول" } ],
+      "answer": ["B"], "key_terms": ["Concept checking", "Eliciting"],
+      "explanation_en": "CCQs (e.g. 'Does he smoke now? No') check meaning reliably. 'Do you understand?' often gets 'yes' even when learners do not. Translation is not always available or precise.",
+      "explanation_fa": "CCQها (مثل «الان سیگار می‌کشد؟ نه») معنا را مطمئن می‌سنجند. «فهمیدید؟» اغلب «بله» می‌گیرد حتی وقتی نفهمیده‌اند. ترجمه همیشه در دسترس یا دقیق نیست."
+    },
+    {
+      "id": "m1u18-q1", "module": 1, "unit": 18, "type": "mcq", "difficulty": 2,
+      "stem_en": "A test given on the first day to place students in the right class is a ___.",
+      "stem_fa": "آزمونی که روز اول برای قراردادنِ دانش‌آموز در کلاسِ درست گرفته می‌شود، ___ است.",
+      "options": [ { "key": "A", "text_en": "placement test", "text_fa": "آزمون تعیین‌سطح" }, { "key": "B", "text_en": "achievement test", "text_fa": "آزمون دستاورد" }, { "key": "C", "text_en": "proficiency test", "text_fa": "آزمون بسندگی" } ],
+      "answer": ["A"], "key_terms": ["Placement test", "Proficiency test"],
+      "explanation_en": "A placement test sorts learners into the right level. An achievement test checks what was taught on a course; a proficiency test measures overall ability regardless of any course.",
+      "explanation_fa": "آزمون تعیین‌سطح زبان‌آموز را در سطحِ درست قرار می‌دهد. آزمون دستاورد آنچه در دوره آموزش داده شد را می‌سنجد؛ آزمون بسندگی توانایی کلی را فارغ از هر دوره اندازه می‌گیرد."
+    },
+    {
+      "id": "m2u19-q1", "module": 2, "unit": 19, "type": "mcq", "difficulty": 2,
+      "stem_en": "Which is the best-written lesson aim?",
+      "stem_fa": "کدام هدفِ درس بهتر نوشته شده است؟",
+      "options": [ { "key": "A", "text_en": "To teach the present perfect.", "text_fa": "آموزشِ حال کامل." }, { "key": "B", "text_en": "Learners will be able to talk about life experiences using the present perfect.", "text_fa": "زبان‌آموز خواهد توانست با حال کامل دربارهٔ تجربه‌های زندگی صحبت کند." }, { "key": "C", "text_en": "To do exercise 3 on page 40.", "text_fa": "انجامِ تمرین ۳ صفحهٔ ۴۰." } ],
+      "answer": ["B"], "key_terms": ["Aim", "Main aim"],
+      "explanation_en": "A good aim is learner-focused and states what learners will be able to DO. A describes the teacher's action; C describes an activity, not a learning outcome.",
+      "explanation_fa": "هدفِ خوب زبان‌آموزمحور است و می‌گوید زبان‌آموز چه خواهد توانست انجام دهد. گزینهٔ A کنشِ معلم را می‌گوید؛ گزینهٔ C یک فعالیت را می‌گوید، نه یک نتیجهٔ یادگیری."
+    },
+    {
+      "id": "m2u20-q1", "module": 2, "unit": 20, "type": "mcq", "difficulty": 2,
+      "stem_en": "In a lesson plan, predicting that a sound will be hard and preparing a solution is called ___.",
+      "stem_fa": "در طرح درس، پیش‌بینی اینکه یک صدا سخت خواهد بود و آماده‌کردنِ راه‌حل، ___ نام دارد.",
+      "options": [ { "key": "A", "text_en": "anticipated problems", "text_fa": "مشکلاتِ پیش‌بینی‌شده" }, { "key": "B", "text_en": "timetable fit", "text_fa": "تناسب با برنامه" }, { "key": "C", "text_en": "interaction pattern", "text_fa": "الگوی تعامل" } ],
+      "answer": ["A"], "key_terms": ["Anticipated problems", "Timetable fit"],
+      "explanation_en": "Foreseeing difficulties and planning solutions is 'anticipated problems'. Timetable fit is how the lesson connects to the course; interaction pattern is who works with whom.",
+      "explanation_fa": "پیش‌بینیِ دشواری‌ها و برنامه‌ریزیِ راه‌حل، «مشکلاتِ پیش‌بینی‌شده» است. تناسب با برنامه یعنی اتصالِ درس به دوره؛ الگوی تعامل یعنی چه‌کسی با چه‌کسی کار می‌کند."
+    },
+    {
+      "id": "m2u21-q1", "module": 2, "unit": 21, "type": "mcq", "difficulty": 2,
+      "stem_en": "Bringing back language from earlier lessons so it is not forgotten is called ___.",
+      "stem_fa": "بازگرداندنِ زبان از درس‌های قبلی تا فراموش نشود، ___ نام دارد.",
+      "options": [ { "key": "A", "text_en": "recycling", "text_fa": "بازآموزی (recycling)" }, { "key": "B", "text_en": "eliciting", "text_fa": "استخراج" }, { "key": "C", "text_en": "drilling", "text_fa": "تمرینِ تکراری" } ],
+      "answer": ["A"], "key_terms": ["Recycling", "Sequence"],
+      "explanation_en": "Deliberately re-using earlier language across a sequence is recycling. Eliciting draws language from learners; drilling is repetition practice of a form.",
+      "explanation_fa": "استفادهٔ عمدیِ دوبارهٔ زبانِ پیشین در طولِ یک توالی، بازآموزی است. استخراج زبان را از زبان‌آموز بیرون می‌کشد؛ drilling تمرینِ تکراریِ یک فرم است."
+    },
+    {
+      "id": "m2u24-q1", "module": 2, "unit": 24, "type": "mcq", "difficulty": 2,
+      "stem_en": "A reading text in the coursebook is too hard, so the teacher rewrites it more simply. This is ___.",
+      "stem_fa": "یک متنِ خواندنِ کتاب درسی خیلی سخت است، پس معلم آن را ساده‌تر بازنویسی می‌کند. این ___ است.",
+      "options": [ { "key": "A", "text_en": "adapting", "text_fa": "تطبیق‌دادن" }, { "key": "B", "text_en": "omitting", "text_fa": "حذف‌کردن" }, { "key": "C", "text_en": "supplementing", "text_fa": "تکمیل‌کردن" } ],
+      "answer": ["A"], "key_terms": ["Adapt", "Supplement", "Omit"],
+      "explanation_en": "Changing existing material to fit the class is adapting. Omitting means leaving it out; supplementing means adding extra material on top.",
+      "explanation_fa": "تغییرِ مطلبِ موجود برای تناسب با کلاس، تطبیق است. حذف یعنی کنارگذاشتنِ آن؛ تکمیل یعنی افزودنِ مطلبِ اضافه."
+    },
+    {
+      "id": "m2u25-q1", "module": 2, "unit": 25, "type": "mcq", "difficulty": 1,
+      "stem_en": "A real restaurant menu used in a lesson is an example of ___.",
+      "stem_fa": "منوی واقعیِ یک رستوران که در درس استفاده می‌شود، نمونه‌ای از ___ است.",
+      "options": [ { "key": "A", "text_en": "authentic material / realia", "text_fa": "مطلبِ اصیل / realia" }, { "key": "B", "text_en": "a coursebook", "text_fa": "کتاب درسی" }, { "key": "C", "text_en": "a placement test", "text_fa": "آزمون تعیین‌سطح" } ],
+      "answer": ["A"], "key_terms": ["Authentic material", "Realia"],
+      "explanation_en": "A real text not made for teaching (a menu) is authentic material / realia. A coursebook is made for teaching; a placement test is an assessment, not material like this.",
+      "explanation_fa": "متنِ واقعی که برای آموزش ساخته نشده (منو) مطلبِ اصیل / realia است. کتاب درسی برای آموزش ساخته شده؛ آزمون تعیین‌سطح یک ارزیابی است، نه چنین مطلبی."
+    },
+    {
+      "id": "m2u26-q1", "module": 2, "unit": 26, "type": "mcq", "difficulty": 1,
+      "stem_en": "Which is a teaching aid?",
+      "stem_fa": "کدام یک وسیلهٔ کمک‌آموزشی است؟",
+      "options": [ { "key": "A", "text_en": "the interactive whiteboard", "text_fa": "تختهٔ هوشمند" }, { "key": "B", "text_en": "a lesson aim", "text_fa": "هدفِ درس" }, { "key": "C", "text_en": "a learning style", "text_fa": "سبکِ یادگیری" } ],
+      "answer": ["A"], "key_terms": ["Teaching aid", "IWB"],
+      "explanation_en": "An interactive whiteboard is a tool that supports teaching — a teaching aid. A lesson aim is a goal; a learning style is a learner characteristic.",
+      "explanation_fa": "تختهٔ هوشمند ابزاری است که از تدریس پشتیبانی می‌کند — یک وسیلهٔ کمک‌آموزشی. هدفِ درس یک مقصود است؛ سبکِ یادگیری یک ویژگیِ زبان‌آموز است."
+    },
+    {
+      "id": "m3u27-q1", "module": 3, "unit": 27, "type": "mcq", "difficulty": 2,
+      "stem_en": "Simplifying your own language so learners at a lower level can understand you is called ___.",
+      "stem_fa": "ساده‌کردنِ زبانِ خودت تا زبان‌آموزِ سطحِ پایین‌تر بفهمد، ___ نام دارد.",
+      "options": [ { "key": "A", "text_en": "grading language", "text_fa": "تنظیمِ سطحِ زبان" }, { "key": "B", "text_en": "eliciting", "text_fa": "استخراج" }, { "key": "C", "text_en": "drilling", "text_fa": "تمرینِ تکراری" } ],
+      "answer": ["A"], "key_terms": ["Grading language", "Classroom language"],
+      "explanation_en": "Adjusting your language to the learners' level is grading language. Eliciting draws answers from learners; drilling is repetition of a form.",
+      "explanation_fa": "تنظیمِ زبانت متناسب با سطحِ زبان‌آموز، grading language است. استخراج پاسخ را از زبان‌آموز می‌گیرد؛ drilling تکرارِ یک فرم است."
+    },
+    {
+      "id": "m3u29-q1", "module": 3, "unit": 29, "type": "mcq", "difficulty": 2,
+      "stem_en": "A learner writes 'libary' for 'library'. By type, this mistake is best described as ___.",
+      "stem_fa": "زبان‌آموزی «libary» را به‌جای «library» می‌نویسد. از نظرِ نوع، این اشتباه بهتر است ___ توصیف شود.",
+      "options": [ { "key": "A", "text_en": "spelling", "text_fa": "املایی" }, { "key": "B", "text_en": "grammar", "text_fa": "دستوری" }, { "key": "C", "text_en": "lexical (wrong word)", "text_fa": "واژگانی (واژهٔ غلط)" } ],
+      "answer": ["A"], "key_terms": ["Error", "Mistake"],
+      "explanation_en": "The word and grammar are correct; only the written form is wrong, so it is a spelling mistake. A grammar mistake breaks a rule of form; a lexical mistake uses the wrong word.",
+      "explanation_fa": "واژه و دستور درست‌اند؛ فقط شکلِ نوشتاری غلط است، پس اشتباهِ املایی است. اشتباهِ دستوری قاعدهٔ فرم را می‌شکند؛ اشتباهِ واژگانی واژهٔ غلط به‌کار می‌برد."
+    },
+    {
+      "id": "m3u31-q1", "module": 3, "unit": 31, "type": "mcq", "difficulty": 1,
+      "stem_en": "The teacher wants every learner to speak as much as possible in a short time. The best grouping is usually ___.",
+      "stem_fa": "معلم می‌خواهد هر زبان‌آموز در زمانِ کوتاه تا حدِ ممکن صحبت کند. بهترین گروه‌بندی معمولاً ___ است.",
+      "options": [ { "key": "A", "text_en": "pairwork", "text_fa": "کارِ جفتی" }, { "key": "B", "text_en": "the teacher asking one student at a time", "text_fa": "معلم هر بار از یک نفر می‌پرسد" }, { "key": "C", "text_en": "silent individual work", "text_fa": "کارِ فردیِ ساکت" } ],
+      "answer": ["A"], "key_terms": ["Pairwork", "Whole class"],
+      "explanation_en": "Pairwork lets many learners speak at once, maximising speaking time. Asking one student at a time means only one speaks; silent individual work has no speaking at all.",
+      "explanation_fa": "کارِ جفتی به زبان‌آموزانِ زیادی اجازه می‌دهد هم‌زمان صحبت کنند و زمانِ صحبت را بیشینه می‌کند. پرسیدن از یک نفر در هر بار یعنی فقط یک نفر صحبت می‌کند؛ کارِ فردیِ ساکت اصلاً صحبت ندارد."
+    },
+    {
+      "id": "m3u33-q1", "module": 3, "unit": 33, "type": "mcq", "difficulty": 2,
+      "stem_en": "Which is the most effective piece of feedback?",
+      "stem_fa": "کدام بازخورد مؤثرتر است؟",
+      "options": [ { "key": "A", "text_en": "Good job!", "text_fa": "آفرین!" }, { "key": "B", "text_en": "Great use of the past tense — just say 'went', not 'goed'.", "text_fa": "کاربردِ خوبِ گذشته — فقط بگو 'went' نه 'goed'." }, { "key": "C", "text_en": "That was wrong.", "text_fa": "غلط بود." } ],
+      "answer": ["B"], "key_terms": ["Feedback", "Praise"],
+      "explanation_en": "Effective feedback is specific and balanced: it praises something real and gives one clear correction. 'Good job!' is vague; 'That was wrong' is demotivating and unhelpful.",
+      "explanation_fa": "بازخوردِ مؤثر مشخص و متوازن است: چیزِ واقعی‌ای را تحسین می‌کند و یک تصحیحِ روشن می‌دهد. «آفرین!» مبهم است؛ «غلط بود» انگیزه‌زدا و بی‌فایده است."
+    }
+  ]
+}

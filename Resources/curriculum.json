@@ -1,0 +1,100 @@
+{
+  "modules": [
+    {
+      "number": 1,
+      "title_en": "Language and background to language learning and teaching",
+      "title_fa": "زبان و پیش‌زمینهٔ یادگیری و آموزش زبان",
+      "parts": [
+        {
+          "title_en": "Describing language and language skills",
+          "title_fa": "توصیف زبان و مهارت‌های زبانی",
+          "units": [
+            { "id": 1, "title_en": "Grammar", "title_fa": "دستور زبان" },
+            { "id": 2, "title_en": "Lexis", "title_fa": "واژگان" },
+            { "id": 3, "title_en": "Phonology", "title_fa": "واج‌شناسی" },
+            { "id": 4, "title_en": "Functions", "title_fa": "کارکردهای زبانی" },
+            { "id": 5, "title_en": "Reading", "title_fa": "خواندن" },
+            { "id": 6, "title_en": "Writing", "title_fa": "نوشتن" },
+            { "id": 7, "title_en": "Listening", "title_fa": "شنیدن" },
+            { "id": 8, "title_en": "Speaking", "title_fa": "صحبت‌کردن" }
+          ]
+        },
+        {
+          "title_en": "Background to language learning",
+          "title_fa": "پیش‌زمینهٔ یادگیری زبان",
+          "units": [
+            { "id": 9, "title_en": "Motivation", "title_fa": "انگیزه" },
+            { "id": 10, "title_en": "Exposure and focus on form", "title_fa": "مواجهه و تمرکز بر فرم" },
+            { "id": 11, "title_en": "The role of error", "title_fa": "نقش خطا" },
+            { "id": 12, "title_en": "Differences between L1 and L2 learning", "title_fa": "تفاوت یادگیری زبان اول و دوم" },
+            { "id": 13, "title_en": "Learner characteristics", "title_fa": "ویژگی‌های زبان‌آموز" },
+            { "id": 14, "title_en": "Learner needs", "title_fa": "نیازهای زبان‌آموز" },
+            { "id": 15, "title_en": "Approaches to language teaching", "title_fa": "رویکردهای آموزش زبان" }
+          ]
+        },
+        {
+          "title_en": "Background to language teaching",
+          "title_fa": "پیش‌زمینهٔ آموزش زبان",
+          "units": [
+            { "id": 16, "title_en": "Presentation techniques and introductory activities", "title_fa": "فنون ارائه و فعالیت‌های مقدماتی" },
+            { "id": 17, "title_en": "Practice activities and tasks for language and skills development", "title_fa": "فعالیت‌ها و تکالیف تمرینی برای توسعهٔ زبان و مهارت‌ها" },
+            { "id": 18, "title_en": "Assessment types and tasks", "title_fa": "انواع و تکالیف ارزیابی" }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title_en": "Lesson planning and use of resources for language teaching",
+      "title_fa": "برنامه‌ریزی درس و استفاده از منابع برای آموزش زبان",
+      "parts": [
+        {
+          "title_en": "Planning and preparing a lesson or sequence of lessons",
+          "title_fa": "برنامه‌ریزی و آماده‌سازی یک درس یا توالی درس‌ها",
+          "units": [
+            { "id": 19, "title_en": "Identifying and selecting aims", "title_fa": "شناسایی و انتخاب اهداف" },
+            { "id": 20, "title_en": "Identifying the different components of a lesson plan", "title_fa": "شناسایی اجزای طرح درس" },
+            { "id": 21, "title_en": "Planning an individual lesson or a sequence of lessons", "title_fa": "برنامه‌ریزی یک درس یا توالی درس‌ها" },
+            { "id": 22, "title_en": "Choosing assessment activities", "title_fa": "انتخاب فعالیت‌های ارزیابی" }
+          ]
+        },
+        {
+          "title_en": "Selection and use of resources",
+          "title_fa": "انتخاب و استفاده از منابع",
+          "units": [
+            { "id": 23, "title_en": "Consulting reference resources to help in lesson preparation", "title_fa": "استفاده از منابع مرجع برای آماده‌سازی درس" },
+            { "id": 24, "title_en": "Selection and use of coursebook materials", "title_fa": "انتخاب و استفاده از مطالب کتاب درسی" },
+            { "id": 25, "title_en": "Selection and use of supplementary materials and activities", "title_fa": "انتخاب و استفاده از مطالب و فعالیت‌های مکمل" },
+            { "id": 26, "title_en": "Selection and use of teaching aids", "title_fa": "انتخاب و استفاده از وسایل کمک‌آموزشی" }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title_en": "Managing the teaching and learning process",
+      "title_fa": "مدیریت فرایند یاددهی و یادگیری",
+      "parts": [
+        {
+          "title_en": "Teachers' and learners' language in the classroom",
+          "title_fa": "زبان معلم و زبان‌آموزان در کلاس",
+          "units": [
+            { "id": 27, "title_en": "Using language appropriately for a range of classroom functions", "title_fa": "استفادهٔ مناسب از زبان برای کارکردهای کلاسی" },
+            { "id": 28, "title_en": "Identifying the functions of learners' language", "title_fa": "شناسایی کارکردهای زبان زبان‌آموزان" },
+            { "id": 29, "title_en": "Categorising learners' mistakes", "title_fa": "دسته‌بندی اشتباهات زبان‌آموزان" }
+          ]
+        },
+        {
+          "title_en": "Classroom management",
+          "title_fa": "مدیریت کلاس",
+          "units": [
+            { "id": 30, "title_en": "Teacher roles", "title_fa": "نقش‌های معلم" },
+            { "id": 31, "title_en": "Grouping learners", "title_fa": "گروه‌بندی زبان‌آموزان" },
+            { "id": 32, "title_en": "Correcting learners", "title_fa": "تصحیح زبان‌آموزان" },
+            { "id": 33, "title_en": "Giving feedback", "title_fa": "ارائهٔ بازخورد" }
+          ]
+        }
+      ]
+    }
+  ]
+}

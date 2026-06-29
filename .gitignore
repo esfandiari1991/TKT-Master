@@ -1,0 +1,11 @@
+# Build output
+build/
+*.zip
+
+# macOS
+.DS_Store
+
+# Never commit copyrighted source PDFs or extracted book text
+*.pdf
+*.rar
+_build_data/
