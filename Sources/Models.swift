@@ -113,6 +113,15 @@ struct MockTest: Codable, Identifiable {
     let questionIds: [String]
 }
 
+// MARK: - Extras (CLIL, Thornbury, CELTA toolkit)
+struct ExtrasFile: Codable { let topics: [ExtraTopic] }
+struct ExtraTopic: Codable, Identifiable {
+    let titleEn: String
+    let titleFa: String
+    let sections: [LessonSection]
+    var id: String { titleEn }
+}
+
 // MARK: - Content store
 @MainActor
 final class ContentStore: ObservableObject {
@@ -122,6 +131,7 @@ final class ContentStore: ObservableObject {
     @Published var questions: [String: Question] = [:]
     @Published var questionsByUnit: [Int: [Question]] = [:]
     @Published var mockTests: [MockTest] = []
+    @Published var extras: [ExtraTopic] = []
 
     init() { load() }
 
@@ -148,6 +158,7 @@ final class ContentStore: ObservableObject {
             }
         }
         if let m = decode("mocktests", MockFile.self) { mockTests = m.tests }
+        if let e = decode("extras", ExtrasFile.self) { extras = e.topics }
     }
 
     func unit(_ id: Int) -> UnitContent? { units[id] }

@@ -447,6 +447,7 @@ struct UnitDetailView: View {
 
 // MARK: - CELTA extras
 struct CeltaView: View {
+    @EnvironmentObject var store: ContentStore
     @AppStorage("showFa") private var showFa = false
     var body: some View {
         ScrollView {
@@ -454,40 +455,54 @@ struct CeltaView: View {
                 ZStack {
                     RoundedRectangle(cornerRadius: 22, style: .continuous).fill(Theme.heroGradient)
                     VStack(alignment: .leading, spacing: 6) {
-                        Text("CELTA Extras").font(.serif(34)).foregroundStyle(.white)
-                        Text("Practical classroom techniques explained in the CELTA tradition — to deepen understanding beyond the TKT syllabus.")
+                        Text("Beyond TKT — CLIL & CELTA").font(.serif(34)).foregroundStyle(.white)
+                        Text("Deeper teaching knowledge from CLIL and the CELTA tradition (Thornbury, Scrivener) — to help you reason your way to the best answer.")
                             .font(.title3).foregroundStyle(.white.opacity(0.95))
-                        if showFa { FaWhite(text: "فنون عملی کلاس‌داری در سنت CELTA — برای درک عمیق‌تر، فراتر از سرفصل TKT.") }
+                        if showFa { FaWhite(text: "دانشِ عمیق‌ترِ تدریس از CLIL و سنتِ CELTA (Thornbury، Scrivener) — برای کمک به رسیدن به بهترین پاسخ.") }
                     }
                     .padding(26).frame(maxWidth: .infinity, alignment: .leading)
                 }
                 .appear(0)
 
-                ForEach(Array(celtaTips.enumerated()), id: \.offset) { i, tip in
-                    VStack(alignment: .leading, spacing: 8) {
-                        Text(tip.0).font(.serif(18)).foregroundStyle(Theme.orangeDeep)
-                        Text(tip.1).font(.body)
-                        if showFa { FaText(text: tip.2) }
-                    }
-                    .card().frame(maxWidth: .infinity, alignment: .leading).appear(0.06 * Double(i + 1))
+                ForEach(Array(store.extras.enumerated()), id: \.element.id) { i, topic in
+                    topicCard(topic).appear(0.05 * Double(i + 1))
                 }
             }
             .padding(30).frame(maxWidth: .infinity, alignment: .leading)
         }
     }
 
-    let celtaTips: [(String, String, String)] = [
-        ("CCQs — Concept Checking Questions",
-         "Instead of asking 'Do you understand?', ask targeted questions that check meaning. For 'He used to smoke': 'Does he smoke now? (No) Did he smoke before? (Yes)'.",
-         "به‌جای «فهمیدید؟»، سؤال‌های هدفمند بپرسید که معنا را بسنجد؛ برای «He used to smoke»: «الان سیگار می‌کشد؟ (نه) قبلاً می‌کشید؟ (بله)»."),
-        ("ICQs — Instruction Checking Questions",
-         "After giving instructions, check learners know what to do: 'Are you working alone or in pairs? How long do you have?'",
-         "بعد از دادن دستورالعمل، مطمئن شوید زبان‌آموز می‌داند چه کند: «تنها کار می‌کنید یا جفتی؟ چقدر وقت دارید؟»"),
-        ("Eliciting before telling",
-         "Draw language and ideas out of learners before giving them yourself — it raises engagement and reveals what they already know.",
-         "پیش از آنکه خودتان بگویید، زبان و ایده را از زبان‌آموز بیرون بکشید — مشارکت را بالا می‌برد و نشان می‌دهد چه می‌دانند."),
-        ("Controlled → freer practice",
-         "Move from accuracy-focused controlled practice to fluency-focused freer practice, so learners build both correctness and confidence.",
-         "از تمرین کنترل‌شدهٔ دقت‌محور به تمرین آزادترِ روانی‌محور بروید تا زبان‌آموز هم درستی و هم اعتمادبه‌نفس بسازد.")
-    ]
+    func topicCard(_ topic: ExtraTopic) -> some View {
+        VStack(alignment: .leading, spacing: 14) {
+            HStack(spacing: 8) {
+                Image(systemName: "books.vertical.fill").foregroundStyle(Theme.orange)
+                Text(topic.titleEn).font(.serif(22)).foregroundStyle(Theme.orangeDeep)
+                Spacer()
+            }
+            if showFa { PersianText(text: topic.titleFa, font: .title3) }
+            ForEach(topic.sections) { s in
+                VStack(alignment: .leading, spacing: 8) {
+                    Text(s.headingEn).font(.serif(17))
+                    Text(s.bodyEn).font(.body)
+                    if showFa { FaText(text: s.bodyFa) }
+                    if let bullets = s.bullets {
+                        VStack(alignment: .leading, spacing: 6) {
+                            ForEach(bullets) { b in
+                                HStack(alignment: .top, spacing: 8) {
+                                    Image(systemName: "circle.fill").font(.system(size: 5)).foregroundStyle(Theme.orange).padding(.top, 7)
+                                    VStack(alignment: .leading, spacing: 2) {
+                                        Text(b.en).font(.callout)
+                                        if showFa { PersianText(text: b.fa) }
+                                    }
+                                }
+                            }
+                        }
+                        .padding(.top, 2)
+                    }
+                }
+                .padding(.vertical, 2)
+            }
+        }
+        .card().frame(maxWidth: .infinity, alignment: .leading)
+    }
 }

@@ -1,7 +1,7 @@
 {
  "meta": {
   "source": "TKT Glossary of ELT Terminology 2015",
-  "count": 738,
+  "count": 764,
   "note": "definition_fa to be authored in content phase"
  },
  "terms": [
@@ -634,12 +634,28 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "BICS",
+   "pos": "",
+   "definition_en": "Basic Interpersonal Communicative Skills.  Those skills needed for everyday conversational talk. In Cummins’ research with immigrant pupils in Canada, most students were found to achieve BICS after two or three years of education.  Tasks associated with BICS are usually less demanding.  Cognitive processes linked to BICS include: identify specific information, name, match and sort objects into sets. blogging:  writing ideas and thoughts on the internet for others to read. bold font:  a dark style of letters which can be selected on the computer toolbar. bullet points:  small black dots which show separate words or parts of text.  They can be written or found on the toolbar of a computer.",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Bilabial",
    "pos": "noun or adjective",
    "definition_en": "A sound produced with both lips, e.g. /p/, /b/.",
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "Bilingual",
+   "pos": "",
+   "definition_en": "students learn 50 % or more curricular subjects in a second or foreign language (The Netherlands).",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Bilingual dictionary",
@@ -705,6 +721,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "CALP",
+   "pos": "",
+   "definition_en": "Cognitive Academic Language Proficiency:  the language development for studying curricular subjects. Cummins and other researchers have noted that it takes learners at least five years to attain a level of English suitable for academic school study.  The time depends on the learning context as well as the level of previous education and prior learning learners bring with them to CLIL. Language taught and produced is cognitively demanding and often impersonal e.g. listening to lectures on abstract topics, writing essays.  Cognitive processes linked to CALP include: identify criteria, justify opinions, form hypotheses and interpret evidence.  In short, CALP refers to the language of academic learning. ‘Can do’ statements:  statements used to describe the assessment criteria for both summative and formative assessment especially in European CLIL contexts.  (e.g. can organise factual information / can describe a graph).",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Capital letter",
    "pos": "noun",
    "definition_en": "A letter of the form and size used at the beginning of a sentence or a name, e.g. They went to Spain last year. See punctuation.",
@@ -713,6 +737,14 @@
     "punctuation"
    ],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "Carroll diagram",
+   "pos": "",
+   "definition_en": "see visual organisers. category:  a group of similar objects, people, places etc. cause and effect:  the reason something happens and the result of it. chronological:  when events are related in order of when they happened. chunk:  (in language) a group of words which are used together in different ways e.g. drag and drop (phrase), fair test (collocation), as a result (connective). classify:  to put things into particular groups according to the features that they have (e.g. birds, fish and insects).  Associated verbs: classify; categorise; decide which group; put into cloze:  text or parts of texts with some words deleted at regular intervals.  For example, every fifth, seventh word. code switching:  using first language and the target language together while communicating. cognition/ cognitive skills:  thinking skills.  In addition to thinking skills such as remembering, identifying and defining, examples of those needed for academic study are: reasoning, creative thinking and evaluating.  One of the leading researchers in bilingual education, Jim Cummins, states learners in CLIL need to achieve CALP. The list of thinking skills in the English National Curriculum is similar to many such lists: information-processing, reasoning, enquiry, creative thinking and evaluation.",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Cataphoric reference",
@@ -742,6 +774,14 @@
     "passive voice"
    ],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "CBI",
+   "pos": "",
+   "definition_en": "Content based instruction (US) Non-native speakers, often from minority language groups, learning a non-native language to enable them to integrate into mainstream classes.",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Chant",
@@ -841,6 +881,22 @@
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "CLIL",
+   "pos": "",
+   "definition_en": "Content and Language Integrated Learning ‘CLIL is an approach in which a foreign language is used as a tool in the learning of a non- language subject in which both language and the subject have a joint role.’ (Marsh in Coyle, 2006).",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
+   "term": "CLIL exposure",
+   "pos": "",
+   "definition_en": "the percentage of CLIL teaching in a curriculum Low = 5-15% Medium = 15-50% High = 50%+ Comparison of foreign language teaching and CLIL",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Clip, DVD clip, video clip",
@@ -1368,6 +1424,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "Creative thinking skills",
+   "pos": "",
+   "definition_en": "enable learners to – Generate ideas Develop ideas Imagine or hypothesise Apply imagination Looking for innovative solutions Think of alternative outcomes",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Criteria",
    "pos": "",
    "definition_en": "see assessment criteria.",
@@ -1760,6 +1824,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "EAL",
+   "pos": "",
+   "definition_en": "English as an Additional Language (UK and British schools overseas) Learning and supporting learning of the English curriculum for learners whose first or home language is not English. home language:  (Main) language used in the home.  Sometimes referred to as ‘primary’ or first language.",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Echo correct",
    "pos": "",
    "definition_en": "see correction.",
@@ -1862,6 +1934,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "Enquiry skills",
+   "pos": "",
+   "definition_en": "enable learners to – Ask relevant questions Define problems Plan what to do and how to research Predict outcomes Anticipate consequences Test conclusions Improve ideas",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Entry",
    "pos": "noun",
    "definition_en": "An item, for example a piece of information that is written or printed in a dictionary about a word, e.g. Easy: /ˈiːzi/ adj. 1. not difficult, and not needing much physical and mental effort: an easy job.",
@@ -1892,6 +1972,14 @@
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "Evaluation skills",
+   "pos": "",
+   "definition_en": "enable learners to – Judge the value of what they hear, say, read, write and do Develop evaluation criteria for judging the value of their own and others' work or ideas Apply evaluation criteria Have confidence in their judgments Make recommendations adapted from: http://www.standards.dfes.gov.uk/thinkingskills/glossary/?view=get&index http://www.nc.uk.net/nc_resources/html/ks1and2 collaborate:  to work together in class in order to plan, create, discuss and evaluate. collate:  to arrange information you have collected in a particular order. Often used when ordering data on a computer spreadsheet. combine:  to put things together e.g. combine these words to make a sentence. communication:  Learners are encouraged to produce subject language orally as well as in writing and to participate in meaningful interaction.  Peer feedback is valued.  One of the main CLIL aims is to increase student talking time (STT) and reduce teacher talking time (TTT). compare and contrast:  to look for similarities and differences.  Associated verbs: compare; contrast; distinguish; differentiate. competences:  the knowledge, skills and attitudes for learning across the curriculum. Competences include communicative, linguistic, artistic, digital, mathematical and social. completion activities:  finishing words, sentences, diagrams, tables etc by adding missing information. compose:  to create something such as a piece of music, art or writing. concept map:  another term used to describe a visual organiser. content:  Curricular subjects apart from languages can be taught through the target language.",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Exchange",
@@ -2277,6 +2365,14 @@
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "From",
+   "pos": "",
+   "definition_en": "Clegg, J (2003) Teaching subjects through a foreign language in the primary school. BC Germany additional language:  used to refer to any language other than the first or home language or mother tongue. bilingual:  (in CLIL contexts) learners studying several curricular subjects in a non-native language.  These learners are sometimes referred to as classroom bilinguals.",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Fronting",
@@ -2674,6 +2770,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "ICT / IT",
+   "pos": "",
+   "definition_en": "(Information, (Communication) Technology) the use of computers to enable learners to improve information-processing skills, to explore ideas, to solve problems, to access and surf the internet, to develop collaborative learning with students who are in other places, to participate in video conferencing.  The subject is referred to as ICT, the skills used are IT skills and the lab is known as the IT lab. identification keys:  ways of identifying objects, people, places etc. • binary keys:  they involve a progression of questions which have only two possible answers e.g. Does it have three equal sides?  (yes / no) • lateral keys:  they are used for comparing features of different items of a group. The set of characteristics of the group are usually presented in a table.  e.g. It has feathers, a beak, legs and wings.  (a bird) information processing:  thinking skills such as identifying and organising information (the ‘what, when, where, which, who and how many?’ questions) information transfer:  moving information from one source to another e.g. reading an explanation then completing a diagram with key words from the explanation. interactive whiteboard (IWB):  a special surface where a computer screen is displayed using a projector.  You can use it by touching it or by using an interactive pen which acts like a mouse. investigate:  to find out. justify:  to give a reason for something. key:  see visual organisers.",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Identify",
    "pos": "verb, identification noun",
    "definition_en": "To recognise somebody or something and be able to say who it is or what it is. For example, a teacher can find out what fruit vocabulary learners know by giving them pictures of different fruit and asking them to identify the fruit by matching words to the pictures.",
@@ -2706,6 +2810,14 @@
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "ILTP",
+   "pos": "",
+   "definition_en": "(Intercultural Language Teaching and Learning in Practice) Intercultural Language Teaching and Learning in Practice.  Students learning languages and about the culture of three or more societies. (Australia) immersion:  programmes where most or all of subject content is taught through a second language (originating and often associated with Canada) Common to all models of immersion are key factors: intensity, time and exposure.  immersion programmes are described as early (pre-school or start of education at 5- 6), delayed (8- 14 years old) or late (14+ and adults) Johnstone, R.M. (2008)",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Impede",
@@ -2863,6 +2975,14 @@
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "Information-processing skills",
+   "pos": "",
+   "definition_en": "enable learners to – Find and collect relevant information Organise information Sort / classify / sequence information Compare / contrast information Identify and analyse relationships Represent or communicate information",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Information-transfer activity",
@@ -3093,6 +3213,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "LAC",
+   "pos": "",
+   "definition_en": "Language Across the Curriculum.  In the UK this refers to the use of language in the L1 medium curriculum.  Elsewhere it refers to subject teaching in a target language.  (e.g. US, Jamaica) language demands:  the language abilities which a learner needs in order to be able to use a language for learning in a given subject, during a subject lesson or using a given subject textbook. Lessons, subjects, textbooks, information technology therefore make language demands on learners.  Teachers need knowledge of the language demands in order to support the learning of subject concepts. language demands analysis:  the analysis which a subject (or language) teacher makes of the language demands which a subject lesson or textbook etc will make on a class.  It is part of lesson planning in CLIL.  On the basis of this analysis, a teacher can decide where in a given lesson a learner will need language support. language needs:  the language needs which specific learners in any group have with respect to a given subject, lesson, textbook or website.  A subject lesson therefore makes language demands on a whole class; whereas individuals in the class have individual language needs with respect to those demands. language showers:  regular, short, continuous exposure to CLIL delivered in the target language for 15 or 30 minutes several times a week.  They are often associated with Primary schools and are usually taught in one subject area. learners:  CLIL covers primary, secondary and tertiary contexts.  Learners, rather than students or pupils, describes this age range. medium of instruction:  language used as medium for school learning. partial immersion:  usually 50-60% of curriculum subjects taught in target language (regions of Spain, Egypt) target language:  the CLIL language. Part 1 and Part 2 of TKT: CLIL Module. accommodation:  (assessment) adapting tasks,  materials, timing or test procedure so that learners can understand what they have to do and can demonstrate what they know. activating prior / previous knowledge:  encouraging learners to produce language or ideas about what they already know about a subject before it is taught. (e.g.  Tell me six words connected with ‘electricity’. Think of three sources of electricity.) analysis:  examining something in detail so that it can be understood. animation:  making many images so that they appear to move on a screen e.g. computer animation. anticipated problems:  problems which teachers think learners could face during a lesson. These could be problems with understanding content, language or new concepts approach:  the different theories about learning and how languages are learned e.g. the communicative approach. assessment criteria:  assessment criteria are the statements written in order to judge how well a learner has achieved the learning outcomes. For example, • learning outcome: to describe the life-cycle of a butterfly. • criteria: the number of stages in the life cycle the learner correctly describes and how well the learner links them.",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Language awareness",
    "pos": "noun",
    "definition_en": "A teacher’s or learner’s knowledge about language; an understanding of the rules of how language works and how it is used. Teachers need to develop their language awareness so that, for example, they know about and understand different verb tenses so they can help learners to understand them.",
@@ -3123,6 +3251,14 @@
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "Language syllabus",
+   "pos": "",
+   "definition_en": "general purposes",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Layout",
@@ -3665,6 +3801,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "Monolingual",
+   "pos": "",
+   "definition_en": "Students in home country learning a subject through CLIL. Some students may be non-native speakers. (e.g. Slovenia)",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Monolingual dictionary",
    "pos": "",
    "definition_en": "see dictionary.",
@@ -3713,6 +3857,14 @@
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "Multilingual",
+   "pos": "",
+   "definition_en": "students learn curriculum subjects in three or more languages (Basque Country, Cataluña).",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Multiple-choice question",
@@ -4355,6 +4507,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "Plurilingual",
+   "pos": "",
+   "definition_en": "students learn several languages, one or more of which may be through CLIL. (Australia).",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Portfolio",
    "pos": "noun",
    "definition_en": "A collection of work that a learner uses to show what he/she has done during a particular course. A purposeful document, regularly added to, that may be part of continuous assessment. See portfolio assessment.",
@@ -4800,6 +4960,14 @@
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "Reasoning skills",
+   "pos": "",
+   "definition_en": "enable learners to – Give reasons for opinions / actions Infer from observations, facts, experience Make conclusions Argue or explain a point of view Make informed judgments / decisions from evidence Use precise language to explain what they think Explain cause and effect",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Recall",
@@ -5622,6 +5790,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "STT",
+   "pos": "",
+   "definition_en": "student talking time. subject-led CLIL:  when curricular subjects are learned through a non-native language The subject content is the focus of the language learned. subject-specific language:  the language needed for particular curriculum subjects e.g. PE:  match, ball, coordination, footwork. support:  ways to help and guide learners as they receive and produce new content and language e.g. teachers grading language; simplifying texts; using visuals, word banks, sentence starters, writing frames and visual organisers. syllabus:  this describes the curricular subjects to be covered during a course and the order in which they will be taught. synthesis:  (see creative thinking) task differentiation:  changing tasks so that some learners have easier materials or questions while others have more challenging materials or questions. technical terms: vocabulary specific to that subject area and unlikely to appear anywhere else e.g. ‘Impressionism ’ in Art (see specialist vocabulary) technique:  how teachers use different classroom activities e.g. using a brainstorming activity to activate prior knowledge. text level:  the discourse features of a text e.g. an instruction text: statement about what is to be made, a list of items needed, steps written in chronological order, use of visuals or diagrams.  (see also word level and sentence level) the 4Cs:  content, communication, cognition and culture (Coyle, 1999).  These are interrelated components of CLIL.  Culture is also linked to citizenship and community. theory:  a set of ideas which explains something, for example mathematical, musical or scientific theory. thought bubbles:  used to show what someone is thinking. timeline:  see visual organisers. transfer:  the ability to apply an idea or a skill that has been learnt in one context and to use it in a different context. variable:  (science experiments) an amount or a condition which can change while other amounts or conditions stay the same.  For example, testing which plants grow well: same soil, same type of seed, same amount of water but different amount of light. visual organisers / graphic organisers:  aids such as diagrams and charts which are used to help learners remember new information by making thinking visual.  They involve writing down or drawing ideas and making connections.  Organisers can be simple or complex but all of them have connecting parts.  There are several common patterns: 1.  bar chart 10.  process or cause-effect diagram 2.  Carroll diagram 11.  quadrants (sounds) Y not Y X not X high low loud quiet 3.  cycle 12.  storyboard 4.  flow diagram 13.  T-chart 5.  grid 14.  table 6.  key (binary) 15.  timeline 7.  line graph 16.  tree diagram . . . . . . . Yes No Are the cones round? Does it have pointed leaves? Yes No Yes No e.g. Trees: Does it have cones? 0.00 0.20 0.40 0.60 0.80 1.00 Line 1 Line 2 Line 3 8.  mind map  (descriptive) 17.  Venn diagrams 9.  pie chart 18  Venn diagram . . . . . Topic Visual organisers Purpose of organiser 1.  bar chart To show frequency using rectangles which are the same width 2.  Carroll diagram To classify information according two sets of different criteria 3.  cycle To show a series of events which happen again and again in the same order 4.  flow diagram (or chart) To represent information to show the steps in a process or in making a decision 5.  grid: squares in rows and columns To show locations of places e.g. on maps 6.  key: binary To divide information into two parts using a series of questions, each of which has only two possible answers. 7.  line graph To show a trend or data using  X and Y axes 8.  mind map (descriptive) To show facts about specific people, places, objects or events. 9.  pie chart To show different amounts of frequencies as parts of a circle 10.  process diagram or cause/ effect diagram To show the cause effect factors which lead to an outcome or a sequence of steps which leads to the manufacture of a product 11.  quadrants To show connections between two sets of concepts 12.  storyboard To show the events in a story sometimes with speech and thought bubbles or short text. 13.  T-chart To show two sides of a topic such as for and against an argument; advantages and disadvantages; facts and opinions 14.  table To categorise information usually with columns and headings 15.  time line To show events in chronological order. 16.  tree diagram To classify words and show their relationships often with examples 17.  Venn diagrams To show similarities and differences between two or among three objects, people, concepts, places etc. 18.  Venn diagram To show a whole set of items and a sub-set of those items volunteer: 1.  (noun) a person who offers to help. 2.  (verb) to offer to help someone.  For example, a learner could volunteer to show another learner how to create a PowerPoint presentation. wait time:  teachers wait for several seconds before learners respond to questions rather than expecting an immediate response.  In CLIL, some people say teachers should wait about 7 seconds in order to allow learners to process their thoughts in a non-native language. word bank:  a list of key words required for learning subject concepts.  It can be used to pre- teach, to support input and to help learners remember key subject vocabulary. word level:  language features of a text such as the use of technical vocabulary, adjectives, quantities. (see also sentence level and text level)",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Student talking time (STT)",
    "pos": "phrase",
    "definition_en": "This is about the time learners spend speaking in a lesson. See Teacher Talking Time (TTT).",
@@ -5967,6 +6143,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "Taught by",
+   "pos": "",
+   "definition_en": "Language or class teacher Language or class teacher Class teacher Assessed as: Language Language Subject",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "Teacher role",
    "pos": "noun",
    "definition_en": "This is about the different jobs a teacher can have in a class and the different ways a teacher can manage the classroom and the learners; e.g. a teacher can choose to take a controlling role, giving directions or instructions at the front of the class or to take a less controlling role, monitoring learners as they work.",
@@ -6110,6 +6294,14 @@
    "source": "TKT Glossary 2015"
   },
   {
+   "term": "These include",
+   "pos": "",
+   "definition_en": "Art, Citizenship, Classics, Design Technology, Economics, Environmental Studies, Geography, History, Information Computer Technology (ICT), Literacy, Maths, Music, Physical Education (PE) Philosophy, Politics, Religious Education (RE) Science, Social Science. content-compatible language:  the less formal, more everyday language learners need for studying curricular subjects e.g. ICT:  move, copy, change.  Learners may already know this language from English classes. content-obligatory language:  the vocabulary, grammatical structures and functions learners need to study specific curricular subjects e.g. ICT:  rows, columns and cells, passive forms, explaining how to use a database. contextualise:  1.(language) to show the meanings of words used in particular sentences e.g. It’s  a light material, not heavy.  It’s a light wind, not a strong one.  It’s a light article, not a serious one. 2. (learning) to relate new curriculum content and materials to the experience and environment of learners.  For example, learners studying natural resources can study those in their immediate surroundings. co-operate:  to work together doing a task. creative thinking:  thinking skills such as those used for imagination, to solve problems and to think of new ideas.  Associated verbs: imagine; build; change; compose; design; invent; make up; plan; produce; suppose. critical thinking:  thinking skills used for determining the accuracy, or authenticity of something and the ability to look for reasons and alternatives. culture:  in CLIL also citizenship and community.  Learners in CLIL are encouraged to think of themselves as part of a larger group in society and to respect how others live and learn. Responsibility to self, others and the environment is developed. curriculum:  the subjects which make up an educational programme.  They are taught differently in different contexts and in different cultures. cycle:  see visual organisers. data handling:  using and interpreting information, often on a computer. differentiation:  support for learners who are either less able or for those who are more able. Those who are less able often require modified input, such as simplified texts or additional visual support.  They may also need modified output, such as answering fewer questions.  More able learners are encouraged, for example, to check work, support peers and do extension activities. display questions:  questions teachers ask learners to find out what they have learned or what they already know.  Teachers already know the answers to these questions.  Examples are:  What are they used for?  Why do we use them? dividing:  separating into smaller groups. dual language texts:  texts written in both the target language and the first language.  The two texts usually appear below one another or on opposite pages of a book. enable:  to help a learner to be able to do something. enquiry approach:  an approach designed to develop learning through systematic gathering of observation and investigation.  It involves learners in problem-based or task-based learning. enquiry skills:  thinking skills such as those used for asking questions about problems and for planning what and how to do research (the ‘what and how’ questions). estimate:  to guess the amount of something e.g. the size of an angle, the temperature of a liquid. evaluating skills:  thinking skills used for commenting on and assessing the value of a piece of work or an idea according to a set of criteria (e.g. ‘Is this clearly communicated?’, ‘How useful is this?’  ‘What could be changed or adapted?) Associated verbs: assess; give opinion; judge; rate; prove. evidence:  information provided to show something is true e.g.  The scientific evidence shows there has been an increase in global temperatures.  The historical evidence shows there was a market here five hundred years ago. expand:  to add more to an answer or to a response especially if the answer is very short and without an expected explanation or justification. exploratory talk:  when learners respond critically but constructively to each other's ideas. They have to give reasons and alternatives and try to agree together.  This helps learners’ thinking skills. factor:  something which has an effect on a situation e.g  Many factors influence good health. fair test:  a fair test is when only one condition is changed at a time and all other conditions are kept the same.  For example, if testing the best conditions for growing a plant, three seeds can be tested by giving them 1.  the same amount of water 2.  the same soil 3.  the same length of time to grow but 4.  a different place to grow: one in full light; one in shadow; one in a dark cupboard. Learners can then see that light affects growth. feature identification:  identifying parts of a sentence or text e.g. underlining opposites. findings:  the results of an investigation. flow chart/diagram:  see visual organisers. frames:  (speaking and writing) forms of support for writing and speaking at word, sentence and text levels or all three.  They are types of scaffolding which help learners to start, connect and develop ideas found in curriculum subjects. For example: Describing a process from a visual The diagram shows…. First of all, …… Then…. Next…. After that… Finally,…. freeze frames:  a series of mimes to represent stages in a story or in a process. functional language:  language used to express the purpose of the communication such as: ability; certainty; deduction; obligation; permission; preference; possibility; probability; prohibition; speculation. genres:  text types which learners meet in the school curriculum and which have specific purposes, structures and language features.  Every genre has a number of characteristics which make it different from other genres.  Types of genre include: discussion; explanation; instruction; proposal; letter; narrative; persuasion; recount (to retell events, usually in chronological order, e.g. autobiography, setting up an experiment); report; review. genre-based teaching:  a process approach to reading and writing which helps learners develop an awareness of how vocabulary and grammatical forms are used in different text types. Learners are helped to identify the kinds of texts they need to read and write.  There are several stages in the genre process: a lead-in to activate prior knowledge; using examples of the text type so learners see the overall structure; joint construction when teachers and learners cooperate to write a text similar to the one in the example then independent writing.  Finally, learners look at further examples of the genre. glossary:  a list of words with their meanings. In CLIL, a glossary is either in the target language with target language meanings or in the target language with L1 meanings. graphic organisers:  see visual organisers. hard CLIL:  a type of partial immersion when almost half the curriculum or more is taught in a non-native language. high and medium frequency words:  the most often used vocabulary in general English and also used in curriculum subjects. higher order thinking skills (HOTS):  skills such as analysis and evaluation.  They are often used in the classroom to develop reasoning skills, encourage enquiry and discussion and to develop creative thinking.  For example, How can we change the design of the building to make it more fuel efficient?  They involve open-ended talk.  See LOTS. hot seat:  a communicative role-play activity.  Learners sit on a chair in the centre of the class, adopt a role e.g. a famous artist and respond to questions asked by the class. hypothesise:  to suggest an explanation for something unknown. For example, What would you do if you were leader of your country?",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
+  },
+  {
    "term": "They",
    "pos": "",
    "definition_en": "",
@@ -6168,6 +6360,14 @@
    "definition_fa": "",
    "see": [],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "TKT",
+   "pos": "",
+   "definition_en": "Content and Language Integrated Learning The glossary is organised alphabetically. It begins with a definition of CLIL and some terms associated with CLIL. It continues with terms and concepts presented in Parts 1 and 2 of the TKT: CLIL syllabus. Terms associated with CLIL",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "TKT KAL Terminology",
@@ -6405,6 +6605,14 @@
     "clip"
    ],
    "source": "TKT Glossary 2015"
+  },
+  {
+   "term": "Viewed as",
+   "pos": "",
+   "definition_en": "Language teaching Language teaching Subject teaching Materials Language Language/subject Subject Syllabus",
+   "definition_fa": "",
+   "see": [],
+   "source": "TKT CLIL Glossary"
   },
   {
    "term": "Visual aid",

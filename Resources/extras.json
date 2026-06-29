@@ -1,0 +1,44 @@
+{
+  "topics": [
+    {
+      "title_en": "CLIL — Content and Language Integrated Learning",
+      "title_fa": "CLIL — یادگیری تلفیقی محتوا و زبان",
+      "sections": [
+        { "heading_en": "What CLIL is", "heading_fa": "CLIL چیست", "body_en": "CLIL is an approach in which a foreign language is used as a tool to learn a non-language subject (e.g. science, history), so that both the subject content and the language have a joint role.", "body_fa": "CLIL رویکردی است که در آن از یک زبانِ خارجی به‌عنوانِ ابزاری برای یادگیریِ یک درسِ غیرزبانی (مثل علوم، تاریخ) استفاده می‌شود، طوری که هم محتوای درس و هم زبان نقشی مشترک دارند.", "bullets": [ { "en": "Language is learned through meaningful subject content, not in isolation.", "fa": "زبان از طریقِ محتوای معنادارِ درس یاد گرفته می‌شود، نه جدا از آن." }, { "en": "Contexts: monolingual, bilingual, multilingual, plurilingual.", "fa": "بافت‌ها: تک‌زبانه، دوزبانه، چندزبانه، و پلورال (چندگانه)." } ] },
+        { "heading_en": "The 4 Cs of CLIL", "heading_fa": "چهار C در CLIL", "body_en": "Coyle's framework describes four parts of a good CLIL lesson: Content (the subject), Communication (using language to learn), Cognition (thinking skills) and Culture (intercultural understanding).", "body_fa": "چارچوبِ Coyle چهار بخشِ یک درسِ خوبِ CLIL را توصیف می‌کند: محتوا (Content/درس)، ارتباط (Communication/استفاده از زبان برای یادگیری)، شناخت (Cognition/مهارت‌های تفکر) و فرهنگ (Culture/درکِ بینافرهنگی).", "bullets": [ { "en": "Content: the subject knowledge and skills.", "fa": "محتوا: دانش و مهارت‌های درس." }, { "en": "Communication: language OF, FOR and THROUGH learning.", "fa": "ارتباط: زبانِ یادگیری، زبان برای یادگیری، و زبان از طریقِ یادگیری." }, { "en": "Cognition: lower- and higher-order thinking skills.", "fa": "شناخت: مهارت‌های تفکرِ سطح‌پایین و سطح‌بالا." }, { "en": "Culture: awareness of self and others.", "fa": "فرهنگ: آگاهی از خود و دیگران." } ] },
+        { "heading_en": "BICS vs CALP, and scaffolding", "heading_fa": "BICS در برابر CALP، و scaffolding", "body_en": "BICS is everyday conversational language; CALP is the more demanding academic language needed to learn subjects. CLIL teachers scaffold — they give temporary support (visuals, language frames, simpler language) that is slowly removed.", "body_fa": "BICS زبانِ روزمرهٔ مکالمه است؛ CALP زبانِ دشوارترِ آکادمیک است که برای یادگیریِ درس‌ها لازم است. معلمِ CLIL داربست‌بندی (scaffolding) می‌کند — پشتیبانیِ موقتی (تصویر، قالب‌های زبانی، زبانِ ساده‌تر) که به‌تدریج برداشته می‌شود.", "bullets": [ { "en": "Content-obligatory language: language learners MUST have for the topic.", "fa": "زبانِ الزامیِ محتوا: زبانی که زبان‌آموز برای آن موضوع حتماً باید داشته باشد." }, { "en": "Content-compatible language: useful extra language that fits the topic.", "fa": "زبانِ سازگار با محتوا: زبانِ اضافهٔ مفید که با موضوع می‌خواند." } ] }
+      ]
+    },
+    {
+      "title_en": "Teaching Grammar (Thornbury)",
+      "title_fa": "آموزش دستور (Thornbury)",
+      "sections": [
+        { "heading_en": "Rules, examples, and two routes", "heading_fa": "قاعده‌ها، مثال‌ها و دو مسیر", "body_en": "Grammar can be taught from rules to examples (deductive) or from examples to rules (inductive). Learners often remember better when they discover a pattern themselves (inductive).", "body_fa": "دستور را می‌توان از قاعده به مثال (قیاسی/deductive) یا از مثال به قاعده (استقرایی/inductive) آموزش داد. زبان‌آموز اغلب وقتی خودش الگو را کشف می‌کند بهتر به خاطر می‌سپارد (استقرایی).", "bullets": [ { "en": "Deductive: give the rule, then practise it.", "fa": "قیاسی: قاعده را بده، بعد تمرین کن." }, { "en": "Inductive: show examples, learners work out the rule.", "fa": "استقرایی: مثال نشان بده، زبان‌آموز قاعده را درمی‌آورد." } ] },
+        { "heading_en": "Form, meaning and use", "heading_fa": "فرم، معنا و کاربرد", "body_en": "Teaching a structure well means covering its form (how it is built), its meaning, and its use (when and why we choose it) — not just the form.", "body_fa": "آموزشِ خوبِ یک ساختار یعنی پوششِ فرم (چطور ساخته می‌شود)، معنا، و کاربرد (کِی و چرا انتخابش می‌کنیم) — نه فقط فرم.", "bullets": [ { "en": "Always check meaning with CCQs, not just 'Do you understand?'.", "fa": "همیشه معنا را با CCQ بسنج، نه فقط با «فهمیدید؟»." } ] }
+      ]
+    },
+    {
+      "title_en": "Teaching Vocabulary (Thornbury)",
+      "title_fa": "آموزش واژگان (Thornbury)",
+      "sections": [
+        { "heading_en": "What it means to know a word", "heading_fa": "دانستنِ یک واژه یعنی چه", "body_en": "Knowing a word is more than its meaning: it includes its form (spelling, pronunciation), its grammar, its collocations, its connotation, and when it is appropriate.", "body_fa": "دانستنِ یک واژه فراتر از معنای آن است: فرم (املا، تلفظ)، دستورِ آن، هم‌آیی‌ها (collocations)، بارِ معنایی، و اینکه چه زمانی مناسب است را شامل می‌شود.", "bullets": [ { "en": "Teach words in lexical sets and with their common collocations.", "fa": "واژه‌ها را در مجموعه‌های واژگانی و همراه با هم‌آیی‌های رایجشان آموزش بده." }, { "en": "The Lexical Approach: language is chunks, not just single words + grammar.", "fa": "رویکردِ واژگانی: زبان از بسته‌ها (chunk) ساخته شده، نه فقط واژه‌های تک + دستور." } ] },
+        { "heading_en": "Presenting and practising vocabulary", "heading_fa": "ارائه و تمرینِ واژگان", "body_en": "Present new words with clear meaning (pictures, examples, definitions), then practise through matching, gap-fill, personalisation and repeated meaningful exposure.", "body_fa": "واژه‌های جدید را با معنای روشن (تصویر، مثال، تعریف) ارائه کن، بعد با تطبیق، جای‌خالی، شخصی‌سازی و مواجههٔ معنادارِ مکرر تمرین کن.", "bullets": [ { "en": "Recycling vocabulary across lessons is essential for memory.", "fa": "بازآموزیِ واژگان در طولِ درس‌ها برای حافظه ضروری است." } ] }
+      ]
+    },
+    {
+      "title_en": "Teaching Speaking (Thornbury)",
+      "title_fa": "آموزش صحبت‌کردن (Thornbury)",
+      "sections": [
+        { "heading_en": "Knowledge plus skill", "heading_fa": "دانش به‌علاوهٔ مهارت", "body_en": "Speaking needs both knowledge (grammar, vocabulary, functions) and skill (producing it in real time). Learners move through awareness, appropriation (controlled practice) and autonomy (independent use).", "body_fa": "صحبت‌کردن هم به دانش (دستور، واژگان، کارکردها) و هم به مهارت (تولیدِ بی‌درنگ) نیاز دارد. زبان‌آموز از آگاهی، به تملک (تمرینِ کنترل‌شده) و سپس استقلال (کاربردِ مستقل) می‌رسد.", "bullets": [ { "en": "Balance fluency activities with accuracy work.", "fa": "فعالیت‌های روانی را با کارِ دقت متوازن کن." }, { "en": "Transactional speaking gets things done; interactional builds relationships.", "fa": "صحبتِ تراکنشی کاری را انجام می‌دهد؛ تعاملی رابطه می‌سازد." } ] }
+      ]
+    },
+    {
+      "title_en": "Classroom Essentials (CELTA toolkit)",
+      "title_fa": "ضروریاتِ کلاس (جعبه‌ابزار CELTA)",
+      "sections": [
+        { "heading_en": "CCQs and ICQs", "heading_fa": "CCQ و ICQ", "body_en": "Concept Checking Questions (CCQs) check meaning; Instruction Checking Questions (ICQs) check that learners know what to do. Both avoid the useless 'Do you understand?'.", "body_fa": "سؤال‌های بررسی مفهوم (CCQ) معنا را می‌سنجند؛ سؤال‌های بررسی دستورالعمل (ICQ) مطمئن می‌شوند زبان‌آموز می‌داند چه کند. هر دو جایگزینِ «فهمیدید؟»ِ بی‌فایده‌اند.", "bullets": [ { "en": "CCQ for 'used to': 'Does he do it now? (No)'.", "fa": "CCQ برای «used to»: «الان انجامش می‌دهد؟ (نه)»." }, { "en": "ICQ: 'Are you writing or speaking? Alone or in pairs?'.", "fa": "ICQ: «می‌نویسید یا صحبت می‌کنید؟ تنها یا جفتی؟»." } ] },
+        { "heading_en": "Eliciting, grading language and TTT", "heading_fa": "استخراج، تنظیمِ زبان و TTT", "body_en": "Elicit before telling, grade your language to the learners' level, and keep Teacher Talking Time low so learners get more chance to speak.", "body_fa": "پیش از گفتن استخراج کن، زبانت را با سطحِ زبان‌آموز تنظیم کن، و زمانِ صحبتِ معلم (TTT) را کم نگه دار تا زبان‌آموز فرصتِ بیشتری برای صحبت داشته باشد.", "bullets": [ { "en": "Less TTT = more student talking time and engagement.", "fa": "TTT کمتر = زمانِ صحبت و مشارکتِ بیشترِ زبان‌آموز." } ] }
+      ]
+    }
+  ]
+}
