@@ -1,6 +1,128 @@
 {
   "categories": [
     {
+      "title_en": "Roadmap to CELTA — aiming for Pass A",
+      "title_fa": "نقشهٔ راهِ CELTA — هدف: Pass A",
+      "topics": [
+        {
+          "title_en": "How to use this roadmap",
+          "title_fa": "چگونه از این نقشهٔ راه استفاده کنیم",
+          "sections": [
+            { "heading_en": "From zero to a top grade", "heading_fa": "از صفر تا بالاترین نمره",
+              "body_en": "CELTA is graded Pass, Pass B and Pass A (Pass A is the highest, given to about the top 5–10%). This roadmap turns your whole library into an ordered study path: read the right book at the right time, master each practical skill, and produce all four assignments and your teaching practice to the highest standard. Work through the stages in order, and use the other CELTA sections in this app for the detail.",
+              "body_fa": "CELTA با نمراتِ Pass، Pass B و Pass A داده می‌شود (Pass A بالاترین است و تقریباً به ۵ تا ۱۰ درصدِ برتر می‌رسد). این نقشهٔ راه کلِ کتابخانه‌ات را به یک مسیرِ مرتب تبدیل می‌کند: کتابِ درست را در زمانِ درست بخوان، هر مهارتِ عملی را مسلط شو، و هر چهار تکلیف و تمرینِ تدریست را در بالاترین سطح ارائه کن. مرحله‌ها را به‌ترتیب پیش برو و برای جزئیات از بخش‌های دیگرِ CELTA در همین اپ استفاده کن.",
+              "bullets": [
+                { "en": "Pass A = consistent, learner-centred teaching + strong reflection.", "fa": "Pass A = تدریسِ پیوسته و زبان‌آموزمحور + بازاندیشیِ قوی." },
+                { "en": "Each stage tells you: what to read, what to master, what to produce.", "fa": "هر مرحله می‌گوید: چه بخوانی، چه مسلط شوی، چه تولید کنی." }
+              ] }
+          ]
+        },
+        {
+          "title_en": "Stage 0 — Before the course (pre-course prep)",
+          "title_fa": "مرحلهٔ ۰ — پیش از دوره (آمادگیِ پیش‌دوره)",
+          "sections": [
+            { "heading_en": "Arrive already ahead", "heading_fa": "از قبل جلو باش",
+              "body_en": "Build a foundation before day one. Read an overview of methodology, refresh your own grammar, and get familiar with the lesson-plan format. Trainees who do this consistently teach better from the first lesson.",
+              "body_fa": "پیش از روزِ اول یک پایه بساز. مروری بر روش‌شناسی بخوان، گرامرِ خودت را تازه کن، و با قالبِ طرح درس آشنا شو. کسانی که این کار را می‌کنند از همان درسِ اول بهتر تدریس می‌کنند.",
+              "bullets": [
+                { "en": "Read: Scrivener, 'Learning Teaching' (the big picture of ELT).", "fa": "بخوان: Scrivener، «Learning Teaching» (تصویرِ کلیِ آموزشِ زبان)." },
+                { "en": "Refresh grammar: Scrivener, 'Teaching English Grammar' (tenses, forms, meaning).", "fa": "گرامر را تازه کن: Scrivener، «Teaching English Grammar» (زمان‌ها، فرم، معنا)." },
+                { "en": "Skim the 'CELTA Course Trainee Book' to learn the plan format.", "fa": "«CELTA Course Trainee Book» را مرور کن تا قالبِ طرح را یاد بگیری." },
+                { "en": "Mindset: be open to feedback — it is the core of CELTA.", "fa": "ذهنیت: نسبت به بازخورد باز باش — قلبِ CELTA همین است." }
+              ] }
+          ]
+        },
+        {
+          "title_en": "Stage 1 — Classroom foundations (early course)",
+          "title_fa": "مرحلهٔ ۱ — پایه‌های کلاس (اوایلِ دوره)",
+          "sections": [
+            { "heading_en": "Master the practical basics", "heading_fa": "تسلط بر پایه‌های عملی",
+              "body_en": "Your first teaching slots are judged on clear set-up, not perfection. Master instructions + ICQs, eliciting, CCQs, board work and managing pairs/groups. These come straight from the Teaching Compendium.",
+              "body_fa": "اولین نوبت‌های تدریست بر اساسِ راه‌اندازیِ روشن سنجیده می‌شوند، نه کمال. دستورالعمل + ICQ، استخراج، CCQ، کارِ تخته و مدیریتِ جفت/گروه را مسلط شو. این‌ها مستقیم از Teaching Compendium می‌آیند.",
+              "bullets": [
+                { "en": "Read: 'The CELTA Teaching Compendium' (A–Z practical skills).", "fa": "بخوان: «The CELTA Teaching Compendium» (مهارت‌های عملیِ الف‑تا‑ی)." },
+                { "en": "Master: instructions, ICQs, CCQs, eliciting, board work, low TTT.", "fa": "مسلط شو: دستورالعمل، ICQ، CCQ، استخراج، کارِ تخته، TTT پایین." },
+                { "en": "Do focused observation tasks of experienced teachers.", "fa": "تکالیفِ مشاهدهٔ متمرکز از معلمانِ باتجربه انجام بده." },
+                { "en": "Produce: clear, complete lesson plans — on time, every time.", "fa": "تولید کن: طرحِ درسِ روشن و کامل — هر بار سرِوقت." }
+              ] }
+          ]
+        },
+        {
+          "title_en": "Stage 2 — Language systems (analysis)",
+          "title_fa": "مرحلهٔ ۲ — سیستم‌های زبان (تحلیل)",
+          "sections": [
+            { "heading_en": "Analyse language like a teacher", "heading_fa": "زبان را مثلِ یک معلم تحلیل کن",
+              "body_en": "Learn to analyse grammar, lexis and phonology as Meaning–Form–Pronunciation, anticipate problems and write CCQs. This stage feeds the 'Language Related Tasks' assignment.",
+              "body_fa": "یاد بگیر گرامر، واژگان و واج‌شناسی را به‌صورتِ معنا‑فرم‑تلفظ تحلیل کنی، مشکلات را پیش‌بینی و CCQ بنویسی. این مرحله به تکلیفِ «Language Related Tasks» خوراک می‌دهد.",
+              "bullets": [
+                { "en": "Read: 'Teaching English Grammar' (Scrivener) + 'How to Teach Grammar' & 'How to Teach Vocabulary' (Thornbury).", "fa": "بخوان: «Teaching English Grammar» (Scrivener) + «How to Teach Grammar» و «How to Teach Vocabulary» (Thornbury)." },
+                { "en": "Master: MFP analysis, timelines, CCQ writing, drilling.", "fa": "مسلط شو: تحلیلِ MFP، خط‌زمان، نوشتنِ CCQ، drilling." },
+                { "en": "Assignment: Language Related Tasks — analyse items with MFP + problems.", "fa": "تکلیف: Language Related Tasks — تحلیلِ موارد با MFP + مشکلات." }
+              ] }
+          ]
+        },
+        {
+          "title_en": "Stage 3 — Teaching the four skills",
+          "title_fa": "مرحلهٔ ۳ — تدریسِ چهار مهارت",
+          "sections": [
+            { "heading_en": "Receptive & productive lessons", "heading_fa": "درس‌های دریافتی و تولیدی",
+              "body_en": "Learn the receptive-skills and productive-skills frameworks and teach a reading/listening and a speaking/writing lesson. This stage feeds the 'Language Skills Related Tasks' assignment.",
+              "body_fa": "چارچوب‌های مهارتِ دریافتی و تولیدی را یاد بگیر و یک درسِ خواندن/شنیدن و یک درسِ صحبت/نوشتن تدریس کن. این مرحله به تکلیفِ «Language Skills Related Tasks» خوراک می‌دهد.",
+              "bullets": [
+                { "en": "Read: 'Learning Teaching' (skills chapters) + 'How to Teach Speaking' (Thornbury).", "fa": "بخوان: «Learning Teaching» (فصل‌های مهارت) + «How to Teach Speaking» (Thornbury)." },
+                { "en": "Master: lead-in, pre-teach, gist→detail, model→prepare→produce→feedback.", "fa": "مسلط شو: lead-in، پیش‌آموزش، gist←جزئیات، نمونه←آماده‌سازی←تولید←بازخورد." },
+                { "en": "Assignment: Language Skills Related Tasks — choose a text + design tasks.", "fa": "تکلیف: Language Skills Related Tasks — انتخابِ متن + طراحیِ تکالیف." }
+              ] }
+          ]
+        },
+        {
+          "title_en": "Stage 4 — Consolidation & Pass A",
+          "title_fa": "مرحلهٔ ۴ — تثبیت و Pass A",
+          "sections": [
+            { "heading_en": "Teach independently and reflect", "heading_fa": "مستقل تدریس کن و بازاندیشی کن",
+              "body_en": "In the final stage, show consistency and independence: learner-centred lessons, smooth staging, strong rapport, and reflection that turns feedback into action. Write the 'Lessons from the Classroom' assignment about your own development.",
+              "body_fa": "در مرحلهٔ پایانی، پیوستگی و استقلال نشان بده: درس‌های زبان‌آموزمحور، مرحله‌بندیِ روان، رابطهٔ قوی، و بازاندیشی‌ای که بازخورد را به اقدام تبدیل می‌کند. تکلیفِ «Lessons from the Classroom» را دربارهٔ رشدِ خودت بنویس.",
+              "bullets": [
+                { "en": "Read: revisit the Compendium + your tutors' feedback notes.", "fa": "بخوان: دوباره Compendium + یادداشت‌های بازخوردِ مربیانت." },
+                { "en": "Master: consistency, independence, reflection, acting on feedback.", "fa": "مسلط شو: پیوستگی، استقلال، بازاندیشی، عمل به بازخورد." },
+                { "en": "Assignment: Lessons from the Classroom — reflect on strengths + action points.", "fa": "تکلیف: Lessons from the Classroom — بازاندیشی بر نقاطِ قوت + اقدام‌ها." }
+              ] }
+          ]
+        },
+        {
+          "title_en": "Mastering the 4 written assignments",
+          "title_fa": "تسلط بر ۴ تکلیفِ نوشتاری",
+          "sections": [
+            { "heading_en": "How to get top marks", "heading_fa": "چگونه نمرهٔ بالا بگیریم",
+              "body_en": "Answer the task fully, use ELT terminology accurately, support points with evidence/references, keep within the word count, and act on resubmission feedback. The four assignments are: Focus on the Learner; Language Related Tasks; Language Skills Related Tasks; Lessons from the Classroom.",
+              "body_fa": "به تکلیف کامل پاسخ بده، اصطلاحاتِ ELT را دقیق به‌کار ببر، نکات را با شواهد/منبع پشتیبانی کن، در حدِ تعدادِ کلمات بمان، و به بازخوردِ بازنویسی عمل کن. چهار تکلیف: تمرکز بر زبان‌آموز؛ تکالیفِ مرتبط با زبان؛ تکالیفِ مرتبط با مهارت‌های زبانی؛ درس‌هایی از کلاس.",
+              "bullets": [
+                { "en": "Focus on the Learner: profile a learner + needs + a helpful activity.", "fa": "تمرکز بر زبان‌آموز: نیم‌رخ + نیازها + یک فعالیتِ کمک‌کننده." },
+                { "en": "Language Related Tasks: MFP analysis + anticipated problems + CCQs.", "fa": "تکالیفِ مرتبط با زبان: تحلیلِ MFP + مشکلاتِ پیش‌بینی‌شده + CCQ." },
+                { "en": "Skills Related Tasks: a text + staged skills tasks with rationale.", "fa": "تکالیفِ مهارت: یک متن + تکالیفِ مهارتیِ مرحله‌ای با دلیل." },
+                { "en": "Lessons from the Classroom: honest reflection + clear action points.", "fa": "درس‌هایی از کلاس: بازاندیشیِ صادقانه + اقدام‌های روشن." }
+              ] }
+          ]
+        },
+        {
+          "title_en": "Recommended reading (your library → skills)",
+          "title_fa": "فهرستِ مطالعه (کتابخانهٔ تو ← مهارت‌ها)",
+          "sections": [
+            { "heading_en": "Which book, for what", "heading_fa": "کدام کتاب، برای چه",
+              "body_en": "Use the CELTA booklist strategically — you don't read every book cover to cover; you read the right parts when you need them.",
+              "body_fa": "از فهرستِ کتابِ CELTA هوشمندانه استفاده کن — لازم نیست هر کتاب را سرتاسر بخوانی؛ بخشِ درست را وقتی لازم داری بخوان.",
+              "bullets": [
+                { "en": "Overview & methodology → Scrivener, 'Learning Teaching'.", "fa": "مرور و روش‌شناسی ← Scrivener، «Learning Teaching»." },
+                { "en": "Practical classroom skills → 'The CELTA Teaching Compendium'.", "fa": "مهارت‌های عملیِ کلاس ← «The CELTA Teaching Compendium»." },
+                { "en": "Grammar analysis → Scrivener, 'Teaching English Grammar'.", "fa": "تحلیلِ گرامر ← Scrivener، «Teaching English Grammar»." },
+                { "en": "Grammar / vocabulary / speaking how-to → Thornbury, 'How to Teach…' series.", "fa": "روشِ گرامر/واژگان/صحبت ← Thornbury، مجموعهٔ «How to Teach…»." },
+                { "en": "The course itself & assignments → 'The CELTA Course Trainee Book'.", "fa": "خودِ دوره و تکالیف ← «The CELTA Course Trainee Book»." }
+              ] }
+          ]
+        }
+      ]
+    },
+    {
       "title_en": "Practical Teaching Skills — CELTA Compendium (A–Z)",
       "title_fa": "مهارت‌های عملیِ تدریس — CELTA Compendium (الف تا ی)",
       "topics": [
@@ -247,6 +369,28 @@
                 { "en": "Gist task (4') — read for general idea — ONE question; pairs check — Individual→S-S.", "fa": "تکلیفِ gist (۴) — خواندن برای ایدهٔ کلی — یک سؤال؛ بررسیِ جفتی — فردی←زبان‌آموز." },
                 { "en": "Detailed task (8') — specific information — 5 questions; peer check; feedback — Individual→S-S.", "fa": "تکلیفِ جزئی (۸) — اطلاعاتِ خاص — ۵ سؤال؛ بررسیِ همتا؛ بازخورد — فردی←زبان‌آموز." },
                 { "en": "Response/follow-up (10') — personalise — speaking task linked to the text — S-S.", "fa": "پاسخ/پیگیری (۱۰) — شخصی‌سازی — تکلیفِ گفتاریِ مرتبط با متن — زبان‌آموز‑زبان‌آموز." }
+              ] }
+          ]
+        },
+        {
+          "title_en": "Full plan C — Speaking (productive skills): giving opinions",
+          "title_fa": "طرحِ کاملِ C — صحبت (مهارتِ تولیدی): بیانِ نظر",
+          "sections": [
+            { "heading_en": "Aims & shape", "heading_fa": "اهداف و شکل",
+              "body_en": "Level: B1. MAIN AIM: develop spoken fluency giving and responding to opinions on a familiar topic. SUBSIDIARY: functional language for opinions ('In my opinion…', 'I agree/disagree because…'). Uses the productive-skills framework: lead-in → model + useful language → preparation → speaking task → feedback.",
+              "body_fa": "سطح: B1. هدف اصلی: توسعهٔ روانیِ گفتار در بیان و پاسخ به نظر دربارهٔ موضوعی آشنا. فرعی: زبانِ کارکردیِ نظر («In my opinion…»، «I agree/disagree because…»). از چارچوبِ مهارتِ تولیدی استفاده می‌کند: lead-in → نمونه + زبانِ مفید → آماده‌سازی → تکلیفِ گفتاری → بازخورد.",
+              "bullets": [
+                { "en": "Lead-in (4') — spark interest — react to a bold statement in pairs — S-S.", "fa": "Lead-in (۴) — جرقهٔ علاقه — واکنش به یک جملهٔ جسورانه به‌صورت جفتی — زبان‌آموز‑زبان‌آموز." },
+                { "en": "Model + useful language (8') — provide exponents — present & drill opinion phrases; board — T-S.", "fa": "نمونه + زبانِ مفید (۸) — ارائهٔ exponentها — معرفی و drillِ عبارت‌های نظر؛ تخته — معلم‑زبان‌آموز." },
+                { "en": "Preparation (6') — plan ideas — learners prepare arguments — Individual→S-S.", "fa": "آماده‌سازی (۶) — برنامهٔ ایده — زبان‌آموز استدلال آماده می‌کند — فردی←زبان‌آموز." },
+                { "en": "Speaking task (12') — fluency — group discussion/debate; T monitors — S-S.", "fa": "تکلیفِ گفتاری (۱۲) — روانی — بحث/مناظرهٔ گروهی؛ معلم نظارت — زبان‌آموز‑زبان‌آموز." },
+                { "en": "Feedback (5') — content then language — praise + delayed error correction — T-S.", "fa": "بازخورد (۵) — اول محتوا بعد زبان — تشویق + تصحیحِ باتأخیر — معلم‑زبان‌آموز." }
+              ] },
+            { "heading_en": "What a tutor wants to see", "heading_fa": "آنچه مربی می‌خواهد ببیند",
+              "body_en": "Clear set-up and instructions (with ICQs), useful language provided before the task, low TTT during the task, purposeful monitoring, and feedback that values the message first and then corrects a few key errors.",
+              "body_fa": "راه‌اندازی و دستورالعملِ روشن (با ICQ)، ارائهٔ زبانِ مفید پیش از تکلیف، TTT پایین حین تکلیف، نظارتِ هدفمند، و بازخوردی که اول به پیام ارزش می‌دهد و بعد چند خطای کلیدی را تصحیح می‌کند.",
+              "bullets": [
+                { "en": "Set up the task and step back — let learners talk.", "fa": "تکلیف را راه بینداز و کنار برو — بگذار زبان‌آموز صحبت کند." }
               ] }
           ]
         }
@@ -654,6 +798,174 @@
       "answer": ["A"], "key_terms": ["Professional development", "Teaching practice"],
       "explanation_en": "Reflective teachers turn feedback into a concrete action point and demonstrate the improvement next time — exactly what tutors (incl. at ITI) look for.",
       "explanation_fa": "معلمِ بازاندیش، بازخورد را به یک نقطهٔ اقدامِ مشخص تبدیل می‌کند و بهبود را دفعهٔ بعد نشان می‌دهد — دقیقاً همان چیزی که مربیان (از جمله در ITI) می‌خواهند."
-    }
+    },
+    { "id": "celta-q27", "module": 4, "unit": 0, "type": "mcq", "difficulty": 1,
+      "stem_en": "'Echoing' (repeating learners' answers) is usually discouraged because it:",
+      "stem_fa": "«Echo» (تکرارِ پاسخِ زبان‌آموز) معمولاً توصیه نمی‌شود چون:",
+      "options": [ { "key": "A", "text_en": "increases TTT and trains learners not to listen to each other", "text_fa": "TTT را بالا می‌برد و زبان‌آموز را عادت می‌دهد به هم گوش ندهند" }, { "key": "B", "text_en": "is always helpful", "text_fa": "همیشه مفید است" }, { "key": "C", "text_en": "corrects errors", "text_fa": "خطا را تصحیح می‌کند" } ],
+      "answer": ["A"], "key_terms": ["Echo", "Teacher talking time"],
+      "explanation_en": "Constant echoing adds teacher talk and makes learners rely on you rather than listening to peers. Better to nominate others to respond.",
+      "explanation_fa": "Echoِ دائمی صحبتِ معلم را زیاد می‌کند و زبان‌آموز را به تو وابسته می‌کند به‌جای گوش‌دادن به همتا. بهتر است دیگران را برای پاسخ صدا بزنی." },
+    { "id": "celta-q28", "module": 4, "unit": 0, "type": "mcq", "difficulty": 1,
+      "stem_en": "Best practice for nominating is to:",
+      "stem_fa": "بهترین روشِ نام‌بردن (nominating):",
+      "options": [ { "key": "A", "text_en": "ask the question, pause, THEN name a student", "text_fa": "سؤال بپرسی، مکث کنی، بعد نامِ زبان‌آموز را بگویی" }, { "key": "B", "text_en": "name the student first, then ask", "text_fa": "اول نام را بگویی، بعد بپرسی" }, { "key": "C", "text_en": "only ask volunteers", "text_fa": "فقط از داوطلب‌ها بپرسی" } ],
+      "answer": ["A"], "key_terms": ["Nominating", "Wait time"],
+      "explanation_en": "Asking first (with wait time) makes everyone think; naming first lets the rest switch off. Relying only on volunteers leaves quieter learners out.",
+      "explanation_fa": "اول‌پرسیدن (با wait time) همه را به فکر می‌اندازد؛ اول‌نام‌گفتن بقیه را رها می‌کند. تکیه بر داوطلب‌ها، زبان‌آموزانِ ساکت را کنار می‌گذارد." },
+    { "id": "celta-q29", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "Using learners' mother tongue (L1) in class is best:",
+      "stem_fa": "استفاده از زبان مادری (L1) در کلاس بهتر است:",
+      "options": [ { "key": "A", "text_en": "occasional and purposeful (e.g. to check a tricky meaning)", "text_fa": "گاه‌به‌گاه و هدفمند (مثلاً برای بررسیِ معنای دشوار)" }, { "key": "B", "text_en": "the main language of the lesson", "text_fa": "زبانِ اصلیِ درس" }, { "key": "C", "text_en": "completely banned at all times", "text_fa": "همیشه کاملاً ممنوع" } ],
+      "answer": ["A"], "key_terms": ["Using mother tongue"],
+      "explanation_en": "L1 can be a useful tool occasionally, but English should be the main medium so learners get exposure. A total ban or L1-dominant lessons are both extremes.",
+      "explanation_fa": "L1 گاهی ابزارِ مفیدی است، اما انگلیسی باید زبانِ اصلی باشد تا زبان‌آموز مواجهه بگیرد. ممنوعیتِ کامل یا غلبهٔ L1 هر دو افراط‌اند." },
+    { "id": "celta-q30", "module": 4, "unit": 0, "type": "mcq", "difficulty": 1,
+      "stem_en": "A 'warmer' at the start of a lesson is mainly to:",
+      "stem_fa": "«warmer» در آغازِ درس عمدتاً برای چیست؟",
+      "options": [ { "key": "A", "text_en": "settle the class and create a positive, English-speaking mood", "text_fa": "آرام‌کردنِ کلاس و ساختنِ فضای مثبتِ انگلیسی‌محور" }, { "key": "B", "text_en": "assess grammar", "text_fa": "ارزیابیِ گرامر" }, { "key": "C", "text_en": "give feedback", "text_fa": "دادنِ بازخورد" } ],
+      "answer": ["A"], "key_terms": ["Warmers", "Rapport"],
+      "explanation_en": "Warmers ease learners in, build rapport and get them using English. They are not assessment or feedback stages.",
+      "explanation_fa": "warmerها زبان‌آموز را وارد فضا می‌کنند، رابطه می‌سازند و او را به انگلیسی‌صحبت‌کردن می‌اندازند. مرحلهٔ ارزیابی یا بازخورد نیستند." },
+    { "id": "celta-q31", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "In ESA (Harmer), the 'Activate' stage is where learners:",
+      "stem_fa": "در ESA (هارمر)، مرحلهٔ «Activate» جایی است که زبان‌آموز:",
+      "options": [ { "key": "A", "text_en": "use language freely to communicate", "text_fa": "آزادانه از زبان برای ارتباط استفاده می‌کند" }, { "key": "B", "text_en": "study the rules", "text_fa": "قواعد را مطالعه می‌کند" }, { "key": "C", "text_en": "get engaged in the topic", "text_fa": "با موضوع درگیر می‌شود" } ],
+      "answer": ["A"], "key_terms": ["ESA"],
+      "explanation_en": "ESA = Engage (interest), Study (focus on language), Activate (free communicative use). 'Activate' is the freer production stage.",
+      "explanation_fa": "ESA = Engage (علاقه)، Study (تمرکز بر زبان)، Activate (کاربردِ آزادِ ارتباطی). «Activate» مرحلهٔ تولیدِ آزادتر است." },
+    { "id": "celta-q32", "module": 4, "unit": 0, "type": "mcq", "difficulty": 1,
+      "stem_en": "Reading a text quickly to find one specific number is:",
+      "stem_fa": "خواندنِ سریعِ متن برای یافتنِ یک عددِ خاص:",
+      "options": [ { "key": "A", "text_en": "scanning", "text_fa": "scanning" }, { "key": "B", "text_en": "skimming", "text_fa": "skimming" }, { "key": "C", "text_en": "intensive reading", "text_fa": "خواندنِ فشرده" } ],
+      "answer": ["A"], "key_terms": ["Scanning", "Skimming"],
+      "explanation_en": "Scanning = searching for specific information. Skimming = reading for the general idea; intensive reading = close, detailed study.",
+      "explanation_fa": "scanning = جست‌وجوی اطلاعاتِ خاص. skimming = خواندن برای ایدهٔ کلی؛ خواندنِ فشرده = مطالعهٔ دقیق و نزدیک." },
+    { "id": "celta-q33", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "'Inferring meaning from context' means learners:",
+      "stem_fa": "«استنتاجِ معنا از بافت» یعنی زبان‌آموز:",
+      "options": [ { "key": "A", "text_en": "work out an unknown word's meaning from the surrounding text", "text_fa": "معنای واژهٔ ناآشنا را از متنِ پیرامون درمی‌آورد" }, { "key": "B", "text_en": "use a dictionary for every word", "text_fa": "برای هر واژه از فرهنگ لغت استفاده می‌کند" }, { "key": "C", "text_en": "translate the whole text", "text_fa": "کلِ متن را ترجمه می‌کند" } ],
+      "answer": ["A"], "key_terms": ["Inferring", "Context"],
+      "explanation_en": "Inferring/deducing meaning from context is a key reading sub-skill that builds independence — better than stopping at every word with a dictionary.",
+      "explanation_fa": "استنتاج/استنباطِ معنا از بافت، زیرمهارتِ کلیدیِ خواندن است که استقلال می‌سازد — بهتر از توقف روی هر واژه با فرهنگ لغت." },
+    { "id": "celta-q34", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "The form of the present continuous is:",
+      "stem_fa": "فرمِ حال استمراری:",
+      "options": [ { "key": "A", "text_en": "subject + be + verb-ing", "text_fa": "فاعل + be + فعلِ ing‌دار" }, { "key": "B", "text_en": "subject + have + past participle", "text_fa": "فاعل + have + اسم مفعول" }, { "key": "C", "text_en": "subject + verb + -ed", "text_fa": "فاعل + فعل + ed" } ],
+      "answer": ["A"], "key_terms": ["MFP", "Tense"],
+      "explanation_en": "Present continuous = be (am/is/are) + verb-ing (e.g. 'She is working'). 'have + past participle' is present perfect; 'verb + -ed' is past simple.",
+      "explanation_fa": "حال استمراری = be (am/is/are) + فعلِ ing‌دار (مثل «She is working»). «have + اسم مفعول» حال کامل است؛ «verb + -ed» گذشتهٔ ساده." },
+    { "id": "celta-q35", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "A good CCQ should:",
+      "stem_fa": "یک CCQِ خوب باید:",
+      "options": [ { "key": "A", "text_en": "be simple, use known language, and have a clear yes/no or short answer", "text_fa": "ساده باشد، از زبانِ آشنا استفاده کند، و پاسخِ روشنِ بله/خیر یا کوتاه داشته باشد" }, { "key": "B", "text_en": "use the target language itself", "text_fa": "از خودِ زبانِ هدف استفاده کند" }, { "key": "C", "text_en": "be a long open question", "text_fa": "یک سؤالِ بازِ بلند باشد" } ],
+      "answer": ["A"], "key_terms": ["CCQ", "Checking understanding"],
+      "explanation_en": "CCQs must be simpler than the target item, avoid using the target language, and get a clear answer. Long open questions don't check meaning reliably.",
+      "explanation_fa": "CCQ باید ساده‌تر از موردِ هدف باشد، از خودِ زبانِ هدف استفاده نکند، و پاسخِ روشن بگیرد. سؤالِ بازِ بلند معنا را مطمئن نمی‌سنجد." },
+    { "id": "celta-q36", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "Which is NOT one of the broad CELTA assessment areas?",
+      "stem_fa": "کدام جزوِ حوزه‌های کلیِ ارزیابیِ CELTA نیست؟",
+      "options": [ { "key": "A", "text_en": "Memorising a fixed set of model lessons", "text_fa": "حفظِ مجموعه‌ای ثابت از درس‌های نمونه" }, { "key": "B", "text_en": "Planning and classroom teaching", "text_fa": "برنامه‌ریزی و تدریسِ کلاسی" }, { "key": "C", "text_en": "Language analysis and awareness", "text_fa": "تحلیل و آگاهیِ زبانی" } ],
+      "answer": ["A"], "key_terms": ["Assessment", "Professional development"],
+      "explanation_en": "CELTA assesses planning, teaching/classroom management, language analysis & awareness, and professional development — not memorising fixed lessons.",
+      "explanation_fa": "CELTA برنامه‌ریزی، تدریس/مدیریتِ کلاس، تحلیل و آگاهیِ زبانی، و رشدِ حرفه‌ای را می‌سنجد — نه حفظِ درس‌های ثابت." },
+    { "id": "celta-q37", "module": 4, "unit": 0, "type": "mcq", "difficulty": 1,
+      "stem_en": "'Timetable fit' on a lesson plan describes:",
+      "stem_fa": "«تناسب با برنامه (timetable fit)» در طرح درس توصیف می‌کند:",
+      "options": [ { "key": "A", "text_en": "how the lesson links to what came before and after", "text_fa": "اینکه درس چگونه به قبل و بعد متصل است" }, { "key": "B", "text_en": "the room booking", "text_fa": "رزروِ اتاق" }, { "key": "C", "text_en": "the teacher's salary", "text_fa": "حقوقِ معلم" } ],
+      "answer": ["A"], "key_terms": ["Timetable fit", "Lesson plan"],
+      "explanation_en": "Timetable fit shows how this lesson connects to the wider course/sequence — what learners did before and what follows.",
+      "explanation_fa": "timetable fit نشان می‌دهد این درس چگونه به دوره/توالیِ کلی متصل است — قبلش چه کردند و بعدش چه می‌آید." },
+    { "id": "celta-q38", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "On a plan, 'assumptions' state:",
+      "stem_fa": "در طرح، «پیش‌فرض‌ها (assumptions)» بیان می‌کنند:",
+      "options": [ { "key": "A", "text_en": "what you think learners already know or can do", "text_fa": "آنچه فکر می‌کنی زبان‌آموز از قبل می‌داند یا می‌تواند" }, { "key": "B", "text_en": "your hopes for the future", "text_fa": "آرزوهایت برای آینده" }, { "key": "C", "text_en": "the homework", "text_fa": "تکلیفِ خانه" } ],
+      "answer": ["A"], "key_terms": ["Lesson plan", "Anticipated problems"],
+      "explanation_en": "Assumptions record prior knowledge you're building on (e.g. 'Ss can already use the past simple'). They shape what you teach and check.",
+      "explanation_fa": "پیش‌فرض‌ها دانشِ پیشینی را که بر آن می‌سازی ثبت می‌کنند (مثلاً «زبان‌آموز گذشتهٔ ساده را بلد است»). آنچه را آموزش و بررسی می‌کنی شکل می‌دهند." },
+    { "id": "celta-q39", "module": 4, "unit": 0, "type": "mcq", "difficulty": 1,
+      "stem_en": "'S–S' in an interaction column means:",
+      "stem_fa": "«S–S» در ستونِ تعامل یعنی:",
+      "options": [ { "key": "A", "text_en": "student-to-student (e.g. pair or group work)", "text_fa": "زبان‌آموز‑به‑زبان‌آموز (مثلاً کارِ جفتی یا گروهی)" }, { "key": "B", "text_en": "teacher to the whole class", "text_fa": "معلم به کلِ کلاس" }, { "key": "C", "text_en": "silent study", "text_fa": "مطالعهٔ ساکت" } ],
+      "answer": ["A"], "key_terms": ["Interaction pattern"],
+      "explanation_en": "S–S = student-to-student interaction (pairs/groups). T–S would be teacher–student; individual silent work is usually written as 'Ind'.",
+      "explanation_fa": "S–S = تعاملِ زبان‌آموز‑زبان‌آموز (جفتی/گروهی). T–S یعنی معلم‑زبان‌آموز؛ کارِ فردیِ ساکت معمولاً «Ind» نوشته می‌شود." },
+    { "id": "celta-q40", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "The main purpose of monitoring during a task is to:",
+      "stem_fa": "هدفِ اصلیِ نظارت حین تکلیف:",
+      "options": [ { "key": "A", "text_en": "check learners are on task and gather errors/good language for feedback", "text_fa": "بررسیِ اینکه زبان‌آموز سرِ تکلیف است و جمعِ خطا/زبانِ خوب برای بازخورد" }, { "key": "B", "text_en": "take a break", "text_fa": "استراحت‌کردن" }, { "key": "C", "text_en": "talk to one student the whole time", "text_fa": "تمامِ مدت با یک نفر صحبت‌کردن" } ],
+      "answer": ["A"], "key_terms": ["Monitoring", "Feedback"],
+      "explanation_en": "Monitoring checks understanding/progress and collects language for feedback. It isn't a break, and you should move around, not fix on one learner.",
+      "explanation_fa": "نظارت، درک/پیشرفت را چک و زبان را برای بازخورد جمع می‌کند. استراحت نیست و باید در کلاس بگردی، نه روی یک نفر متمرکز شوی." },
+    { "id": "celta-q41", "module": 4, "unit": 0, "type": "mcq", "difficulty": 1,
+      "stem_en": "The clearest way to set up a tricky task is often to:",
+      "stem_fa": "روشن‌ترین راهِ راه‌اندازیِ یک تکلیفِ دشوار اغلب:",
+      "options": [ { "key": "A", "text_en": "demonstrate it, then check with ICQs", "text_fa": "نمایشش بدهی، بعد با ICQ چک کنی" }, { "key": "B", "text_en": "read a long explanation aloud", "text_fa": "توضیحِ بلندی را بلند بخوانی" }, { "key": "C", "text_en": "let learners guess what to do", "text_fa": "بگذاری زبان‌آموز حدس بزند چه کند" } ],
+      "answer": ["A"], "key_terms": ["Instructions", "ICQ"],
+      "explanation_en": "A quick demonstration plus ICQs is clearer than a long verbal explanation and avoids leaving learners to guess.",
+      "explanation_fa": "یک نمایشِ کوتاه به‌علاوهٔ ICQ روشن‌تر از توضیحِ شفاهیِ بلند است و زبان‌آموز را به حدس‌زدن وانمی‌گذارد." },
+    { "id": "celta-q42", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "'Grading your language' means:",
+      "stem_fa": "«grading your language» یعنی:",
+      "options": [ { "key": "A", "text_en": "adjusting your language to the learners' level", "text_fa": "تنظیمِ زبانت متناسب با سطحِ زبان‌آموز" }, { "key": "B", "text_en": "giving learners grades", "text_fa": "نمره‌دادن به زبان‌آموز" }, { "key": "C", "text_en": "speaking as fast as possible", "text_fa": "سریع‌ترین حالتِ ممکن صحبت‌کردن" } ],
+      "answer": ["A"], "key_terms": ["Grading language"],
+      "explanation_en": "Grading language means making your own English simpler/clearer for the level (shorter sentences, common words, clear gestures) — not marking learners.",
+      "explanation_fa": "grading language یعنی ساده/روشن‌ترکردنِ انگلیسیِ خودت برای سطح (جملهٔ کوتاه‌تر، واژهٔ رایج، اشارهٔ روشن) — نه نمره‌دادن." },
+    { "id": "celta-q43", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "Recycling vocabulary across lessons mainly helps because:",
+      "stem_fa": "بازآموزیِ واژگان در طولِ درس‌ها عمدتاً کمک می‌کند چون:",
+      "options": [ { "key": "A", "text_en": "repeated, spaced exposure builds long-term memory", "text_fa": "مواجههٔ مکرر و فاصله‌دار، حافظهٔ بلندمدت می‌سازد" }, { "key": "B", "text_en": "it fills time", "text_fa": "وقت پر می‌کند" }, { "key": "C", "text_en": "learners dislike new words", "text_fa": "زبان‌آموز واژهٔ جدید دوست ندارد" } ],
+      "answer": ["A"], "key_terms": ["Pre-teaching vocabulary", "Recycling"],
+      "explanation_en": "Words are remembered through repeated, spaced, meaningful encounters — so recycling earlier vocabulary is essential, not just time-filling.",
+      "explanation_fa": "واژه‌ها از طریقِ برخوردهای مکرر، فاصله‌دار و معنادار به خاطر می‌مانند — پس بازآموزیِ واژگانِ پیشین ضروری است، نه صرفاً پرکردنِ وقت." },
+    { "id": "celta-q44", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "You want learners to discover a grammar rule themselves from examples. You are using:",
+      "stem_fa": "می‌خواهی زبان‌آموز قاعدهٔ گرامری را خودش از مثال‌ها کشف کند. داری از ... استفاده می‌کنی:",
+      "options": [ { "key": "A", "text_en": "guided discovery (an inductive approach)", "text_fa": "کشفِ هدایت‌شده (رویکردِ استقرایی)" }, { "key": "B", "text_en": "a deductive approach", "text_fa": "رویکردِ قیاسی" }, { "key": "C", "text_en": "audiolingual drilling only", "text_fa": "فقط drillِ شنیداری‑گفتاری" } ],
+      "answer": ["A"], "key_terms": ["Guided discovery", "PPP"],
+      "explanation_en": "Working out the rule from examples is inductive = guided discovery. Giving the rule first is deductive; drilling alone teaches no rule.",
+      "explanation_fa": "درآوردنِ قاعده از مثال، استقرایی = کشفِ هدایت‌شده است. اول‌دادنِ قاعده قیاسی است؛ صرفِ drill قاعده‌ای آموزش نمی‌دهد." },
+    { "id": "celta-q45", "module": 4, "unit": 0, "type": "mcq", "difficulty": 1,
+      "stem_en": "Keeping good 'pace' in a lesson means:",
+      "stem_fa": "حفظِ «pace»ِ خوب در درس یعنی:",
+      "options": [ { "key": "A", "text_en": "activities move along briskly without rushing or dragging", "text_fa": "فعالیت‌ها روان پیش می‌روند، بدون عجله یا کِشدارشدن" }, { "key": "B", "text_en": "always going as fast as possible", "text_fa": "همیشه سریع‌ترین حالت" }, { "key": "C", "text_en": "spending an hour on one task", "text_fa": "یک ساعت روی یک تکلیف" } ],
+      "answer": ["A"], "key_terms": ["Pace", "Timing"],
+      "explanation_en": "Good pace keeps energy up — brisk but not rushed, and not dragging. Always-fast or always-slow both harm learning.",
+      "explanation_fa": "pace خوب انرژی را بالا نگه می‌دارد — روان اما نه شتاب‌زده و نه کِشدار. همیشه‑سریع یا همیشه‑کند هر دو به یادگیری آسیب می‌زنند." },
+    { "id": "celta-q46", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "Your plan times the stages but the lesson always overruns. The best fix is to:",
+      "stem_fa": "طرحت مراحل را زمان‌بندی می‌کند ولی درس همیشه از وقت می‌گذرد. بهترین راه‌حل:",
+      "options": [ { "key": "A", "text_en": "build in flexibility and prioritise the main aim; cut/shorten less essential stages", "text_fa": "انعطاف بگذاری و هدف اصلی را اولویت بدهی؛ مراحلِ کم‌اهمیت را کوتاه/حذف کنی" }, { "key": "B", "text_en": "talk faster", "text_fa": "سریع‌تر صحبت کنی" }, { "key": "C", "text_en": "skip feedback every time", "text_fa": "هر بار بازخورد را حذف کنی" } ],
+      "answer": ["A"], "key_terms": ["Timing", "Stage aims"],
+      "explanation_en": "Realistic timing plus a clear priority on the main aim lets you flex: trim or drop optional stages, keep feedback. Talking faster or always cutting feedback are poor fixes.",
+      "explanation_fa": "زمان‌بندیِ واقع‌گرایانه + اولویتِ روشنِ هدف اصلی اجازهٔ انعطاف می‌دهد: مراحلِ اختیاری را کوتاه/حذف کن، بازخورد را نگه دار. سریع‌تر حرف‌زدن یا حذفِ همیشگیِ بازخورد راه‌حلِ بدی است." },
+    { "id": "celta-q47", "module": 4, "unit": 0, "type": "mcq", "difficulty": 1,
+      "stem_en": "The CELTA portfolio is:",
+      "stem_fa": "پوشه‌کارِ (portfolio) CELTA:",
+      "options": [ { "key": "A", "text_en": "a collection of your plans, assignments and reflections", "text_fa": "مجموعه‌ای از طرح‌ها، تکالیف و بازاندیشی‌هایت" }, { "key": "B", "text_en": "a final written exam", "text_fa": "یک آزمونِ نوشتاریِ نهایی" }, { "key": "C", "text_en": "a textbook", "text_fa": "یک کتابِ درسی" } ],
+      "answer": ["A"], "key_terms": ["Assessment", "Assignments"],
+      "explanation_en": "The portfolio gathers your lesson plans, written assignments, tutor feedback and reflections as evidence of progress. CELTA has no final exam.",
+      "explanation_fa": "پوشه‌کار، طرح‌ها، تکالیفِ نوشتاری، بازخوردِ مربی و بازاندیشی‌هایت را به‌عنوانِ شواهدِ پیشرفت جمع می‌کند. CELTA آزمونِ نهایی ندارد." },
+    { "id": "celta-q48", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "Before a listening, you let learners predict content from the title. This mainly:",
+      "stem_fa": "پیش از یک شنیدن، می‌گذاری زبان‌آموز محتوا را از عنوان پیش‌بینی کند. این عمدتاً:",
+      "options": [ { "key": "A", "text_en": "activates expectations and makes listening easier", "text_fa": "انتظارات را فعال و شنیدن را آسان‌تر می‌کند" }, { "key": "B", "text_en": "tests grammar", "text_fa": "گرامر را آزمون می‌کند" }, { "key": "C", "text_en": "wastes time", "text_fa": "وقت تلف می‌کند" } ],
+      "answer": ["A"], "key_terms": ["Prediction", "Receptive skill"],
+      "explanation_en": "Prediction activates background knowledge and sets up expectations, which supports top-down processing and makes the listening more accessible.",
+      "explanation_fa": "پیش‌بینی دانشِ پیشین را فعال و انتظارات را آماده می‌کند، که از پردازشِ بالا‑به‑پایین پشتیبانی و شنیدن را دسترس‌پذیرتر می‌کند." },
+    { "id": "celta-q49", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "Which lesson aim is best written?",
+      "stem_fa": "کدام هدفِ درس بهتر نوشته شده؟",
+      "options": [ { "key": "A", "text_en": "By the end, Ss will be better able to give and respond to opinions in a discussion.", "text_fa": "در پایان، زبان‌آموز بهتر بتواند در بحث نظر بدهد و پاسخ دهد." }, { "key": "B", "text_en": "To do a speaking activity.", "text_fa": "انجامِ یک فعالیتِ گفتاری." }, { "key": "C", "text_en": "To use the coursebook.", "text_fa": "استفاده از کتابِ درسی." } ],
+      "answer": ["A"], "key_terms": ["Aim", "Main aim"],
+      "explanation_en": "A strong aim is learner-focused and describes a measurable outcome ('Ss will be better able to…'). B and C describe activities, not learning outcomes.",
+      "explanation_fa": "هدفِ قوی زبان‌آموزمحور است و نتیجه‌ای قابل‌سنجش را توصیف می‌کند («زبان‌آموز بهتر بتواند…»). B و C فعالیت را توصیف می‌کنند، نه نتیجهٔ یادگیری." },
+    { "id": "celta-q50", "module": 4, "unit": 0, "type": "mcq", "difficulty": 2,
+      "stem_en": "A confident learner dominates every discussion. Your best planned solution is to:",
+      "stem_fa": "یک زبان‌آموزِ بااعتمادبه‌نفس بر هر بحث غالب می‌شود. بهترین راه‌حلِ برنامه‌ریزی‌شده:",
+      "options": [ { "key": "A", "text_en": "use pair/group work and roles so everyone must contribute", "text_fa": "از کارِ جفتی/گروهی و نقش استفاده کنی تا همه ناچار به مشارکت شوند" }, { "key": "B", "text_en": "let them answer everything", "text_fa": "بگذاری همه‌چیز را او جواب دهد" }, { "key": "C", "text_en": "ask them to leave", "text_fa": "از او بخواهی کلاس را ترک کند" } ],
+      "answer": ["A"], "key_terms": ["Anticipated problems", "Grouping learners", "Balance of interaction"],
+      "explanation_en": "Structuring interaction (pairs, groups, assigned roles, nominating others) spreads participation fairly. Letting one dominate or excluding them are not good management.",
+      "explanation_fa": "ساختاردادن به تعامل (جفتی، گروهی، نقش‌های مشخص، صدازدنِ دیگران) مشارکت را عادلانه پخش می‌کند. غلبهٔ یک نفر یا کنارگذاشتنِ او مدیریتِ خوبی نیست." }
   ]
 }
