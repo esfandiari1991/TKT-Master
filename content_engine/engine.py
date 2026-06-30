@@ -66,6 +66,10 @@ def cmd_validate(_):
         except Exception as e:
             ok = False; print(f"  BAD {name}: {e}")
     qids = {q["id"] for q in load("questions.json")["questions"]}
+    try:
+        qids |= {q["id"] for q in load("celta.json")["questions"]}
+    except Exception:
+        pass
     for t in load("mocktests.json")["tests"]:
         missing = [i for i in t["question_ids"] if i not in qids]
         if missing:

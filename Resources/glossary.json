@@ -115,7 +115,7 @@
    "term": "Accuracy",
    "pos": "noun",
    "definition_en": "The ability to do something without making mistakes. Accuracy is the use of correct forms of grammar, vocabulary, spelling and pronunciation. In an accuracy activity, teachers and learners usually focus on using and producing language correctly. See fluency.",
-   "definition_fa": "",
+   "definition_fa": "توانایی استفادهٔ درست از زبان بدون خطا (دستور، واژگان، تلفظ، املا). در فعالیتِ دقت، تمرکز بر تولیدِ صحیحِ زبان است.",
    "see": [
     "fluency"
    ],
@@ -247,7 +247,7 @@
    "term": "Affix",
    "pos": "noun and verb, affixation noun",
    "definition_en": "A letter or letters added to the beginning or end of a word to make a new word, which can be a different part of speech from the original word, e.g. interview, interviewer; ‘er’ is an affix added to interview to make the new word interviewer. Affixation is the process of adding letters at the beginning (prefix) or end of a word (suffix) to make a new word. See prefix, suffix.",
-   "definition_fa": "",
+   "definition_fa": "حرف یا گروهی از حروف که به واژه افزوده می‌شود تا معنا یا طبقه‌اش را تغییر دهد (پیشوند یا پسوند).",
    "see": [
     "prefix",
     "suffix"
@@ -353,7 +353,7 @@
    "term": "Antonym",
    "pos": "noun",
    "definition_en": "The opposite of another word, e.g. hot is an antonym of cold. See synonym.",
-   "definition_fa": "",
+   "definition_fa": "واژه‌ای با معنای متضادِ واژهٔ دیگر، مثل hot و cold.",
    "see": [
     "synonym"
    ],
@@ -550,7 +550,7 @@
    "term": "Authentic material",
    "pos": "noun",
    "definition_en": "Written or spoken texts which a first language speaker might read or listen to. They may be taken from newspapers, radio, the internet etc. The language in the texts is not adapted or made easier for learners or the language learning process.",
-   "definition_fa": "",
+   "definition_fa": "متن یا موادِ واقعی که برای آموزش ساخته نشده‌اند، مثل آگهی یا مقالهٔ واقعی.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -1016,7 +1016,7 @@
    "term": "Collocation",
    "pos": "noun, collocate verb",
    "definition_en": "Words which are regularly used together. The relation between the words may be grammatical, for example when certain verbs/adjectives collocate with particular prepositions, e.g. depend on, good at, or when a verb like make or do collocates with a noun, e.g. do the shopping, make a plan. Collocations may also be lexical when two content words are regularly used together, e.g. We went the wrong way NOT We went the incorrect way.",
-   "definition_fa": "",
+   "definition_fa": "واژه‌هایی که به‌طور طبیعی و عادتی کنار هم می‌آیند، مثل heavy rain یا make a decision.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -1342,7 +1342,7 @@
    "term": "Controlled practice",
    "pos": "",
    "definition_en": "see practice.",
-   "definition_fa": "",
+   "definition_fa": "تمرینی هدایت‌شده که تمرکزش بر تولیدِ صحیحِ زبان است (دقت)، مثل جای‌خالی.",
    "see": [
     "practice"
    ],
@@ -1953,7 +1953,7 @@
    "term": "Error",
    "pos": "noun",
    "definition_en": "A mistake that a learner makes when trying to say or write something above their level of language or language processing. A developmental error is an error made by a second language learner which could also be made by a child learning their mother tongue as part of their normal development. A second language learner might make the error because they are applying a rule they have learned that doesn’t work for this particular case e.g. I goed there last week (I went there last week). A fossilised error is an error that has become (almost) permanent in a learner’s language and has become a \nhabit. Fossilised errors cannot easily be corrected. For example, a B2 learner might habitually not add an ‘s’ \nwhen saying third person singular present simple verbs. Learners at this level do not usually make this \nmistake, but, for this learner, the error was not corrected early and it has become habitual. See fossilisation. A slip. When a learner makes a slip they make a language mistake but they are able to correct themselves, \ne.g. Learner: He like ice-cream, I mean, he likes ice-cream.",
-   "definition_fa": "",
+   "definition_fa": "اشکالی نظام‌مند که از ندانستنِ قاعده ناشی می‌شود و مرحله‌ای از یادگیری را نشان می‌دهد.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -2022,7 +2022,7 @@
    "term": "Exponent",
    "pos": "noun",
    "definition_en": "An example of a grammar point, function or lexical set; e.g. Can you open the window, please? is an exponent for making requests.",
-   "definition_fa": "",
+   "definition_fa": "عبارتِ مشخصی که یک کارکرد را بیان می‌کند، مثل «Could you…?» برای درخواست.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -2030,7 +2030,7 @@
    "term": "Exposure",
    "pos": "noun (to language), expose verb",
    "definition_en": "Exposure to language means being in contact with language by hearing it or reading it. We can learn another language through exposure to it. We can learn a language without realising we are learning it and without studying it, in the same way that children learn their mother tongue. Learners can get exposure to language outside the classroom by watching movies in English and reading books or magazines in English. See acquisition, pick up language.",
-   "definition_fa": "",
+   "definition_fa": "زبانی که زبان‌آموز در محیط می‌شنود یا می‌خواند؛ مواجههٔ غنی به فراگیری کمک می‌کند.",
    "see": [
     "acquisition",
     "pick up language"
@@ -2133,7 +2133,7 @@
    "term": "Feedback",
    "pos": "noun, feed back verb, give, provide feedback verb",
    "definition_en": "1. To tell someone how well they are doing. After a test, or at a certain point in the course, teachers might give learners feedback on how well they are doing. 2. Teachers also give feedback after an exercise that learners have just completed; e.g. after learners have done a gap-fill activity the teacher conducts feedback by asking learners to tell him/her which words they have put in the gaps. He/she writes the correct answers on the board. 3. In addition, learners can give feedback to teachers, and teacher trainers give feedback to trainee teachers about what went well or less well in their lessons.  See peer feedback.",
-   "definition_fa": "",
+   "definition_fa": "اطلاعاتی که به زبان‌آموز دربارهٔ عملکردش (محتوا و زبان) داده می‌شود.",
    "see": [
     "peer feedback"
    ],
@@ -2251,7 +2251,7 @@
    "term": "Fluency",
    "pos": "noun, fluent adjective",
    "definition_en": "Oral fluency – being able to speak at a natural speed without stopping, repeating, or self-correcting. In oral fluency activities, learners are encouraged to focus on communicating meaning and ideas, rather than trying to be correct. Written fluency – being able to write without stopping for a long time to think about what to write. In a written \nfluency activity, learners give attention to the content and ideas of the text, rather than trying to be correct. See \naccuracy.",
-   "definition_fa": "",
+   "definition_fa": "توانایی صحبت یا نوشتنِ روان و پیوسته بدون مکث یا تردیدِ زیاد؛ تمرکز بر رساندنِ پیام.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -2394,7 +2394,7 @@
    "term": "Function",
    "pos": "noun",
    "definition_en": "The reason or purpose for using language, e.g. making a suggestion; giving advice. See functional exponent.",
-   "definition_fa": "",
+   "definition_fa": "هدفی که برای آن از زبان استفاده می‌کنیم، مثل دعوت‌کردن، عذرخواهی یا درخواست.",
    "see": [
     "functional exponent"
    ],
@@ -2494,7 +2494,7 @@
    "term": "Gist",
    "pos": "noun, global understanding, listen/read for gist, listen/read for global understanding phrases",
    "definition_en": "To read or listen to a text and understand the general meaning of it, without paying attention to specific details – for example, reading a restaurant review quickly to find out if the writer liked the restaurant or not. See detail, read for detail, listen for detail, intensive listening/reading, scan, skim.",
-   "definition_fa": "",
+   "definition_fa": "معنای کلی یا ایدهٔ اصلیِ یک متنِ گفتاری یا نوشتاری.",
    "see": [
     "detail",
     "read for detail",
@@ -2789,7 +2789,7 @@
    "term": "Idiom",
    "pos": "noun, idiomatic adjective",
    "definition_en": "An unchangeable phrase or expression, in which the meaning of the phrase is different from the meaning of each individual word; e.g. She felt under the weather means that she felt ill.",
-   "definition_fa": "",
+   "definition_fa": "عبارتی ثابت که معنایش از مجموعِ واژه‌هایش به‌دست نمی‌آید، مثل under the weather (ناخوش).",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -3080,7 +3080,7 @@
    "term": "Interference",
    "pos": "noun",
    "definition_en": "Interference happens when the learner’s mother tongue affects performance in the target language, especially in pronunciation, lexis or grammar. For example, a learner may make a grammatical mistake because they apply the same grammatical pattern as they use in their mother tongue to what they are saying in the target language but the mother tongue grammatical pattern is not correct in the target language.",
-   "definition_fa": "",
+   "definition_fa": "خطایی که از تأثیرِ زبانِ اول بر زبانِ دوم ناشی می‌شود.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -3104,7 +3104,7 @@
    "term": "Intonation",
    "pos": "noun",
    "definition_en": "The way the level of a speaker’s voice changes to show meaning such as how they feel about something; e.g. the level of your voice when you are angry is different from the level of your voice when you are pleased. Intonation can be rising or falling or both.",
-   "definition_fa": "",
+   "definition_fa": "بالا و پایین‌رفتنِ صدا در گفتار (آهنگِ کلام) که معنا و نگرش را منتقل می‌کند.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -3272,7 +3272,7 @@
    "term": "Lead-in",
    "pos": "noun, lead in verb",
    "definition_en": "The activity or activities used to prepare learners to work on a text, topic or task. A lead-in often includes an introduction to the topic of the text or task and possibly study of some new key language required for the text or task.",
-   "definition_fa": "",
+   "definition_fa": "فعالیتی کوتاه در آغازِ درس که بافت را می‌سازد و علاقه ایجاد می‌کند.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -3456,7 +3456,7 @@
    "term": "Lexis",
    "pos": "noun (also vocabulary), lexical adjective",
    "definition_en": "Individual words or sets of words, e.g. homework, study, whiteboard, get dressed, be on time. Lexical means connected with words or sets of words. See lexical approach, lexical set, lexical unit.",
-   "definition_fa": "",
+   "definition_fa": "واژگانِ یک زبان؛ شاملِ واژه‌های تک و واحدهای چندکلمه‌ایِ ثابت.",
    "see": [
     "lexical approach",
     "lexical set",
@@ -3854,7 +3854,7 @@
    "term": "Motivation",
    "pos": "noun, motivate verb",
    "definition_en": "Feelings of interest and excitement which make us want to do something and help us continue doing it. Learners who are highly motivated and want to learn English are more likely to be successful. Demotivate verb, demotivated adjective To make someone lose motivation. Learners can become demotivated if they feel a lack of progress. Unmotivated adjective Without motivation; having no motivation. Learners who do not see a reason for learning a particular subject can be unmotivated.",
-   "definition_fa": "",
+   "definition_fa": "نیروی درونی که زبان‌آموز را به یادگیری و ادامه‌دادن مایل می‌کند؛ درونی یا بیرونی.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -4364,7 +4364,7 @@
    "term": "Phoneme",
    "pos": "noun",
    "definition_en": "The smallest sound unit which can make a difference to meaning e.g. /p/ in pan, /b/ in ban. Phonemes have their own symbols (phonemic symbols), each of which represents one sound. See phonemic chart.",
-   "definition_fa": "",
+   "definition_fa": "کوچک‌ترین واحدِ صوتی که می‌تواند معنای واژه را تغییر دهد؛ مثلاً تفاوتِ ship و sheep.",
    "see": [
     "phonemic chart"
    ],
@@ -4900,7 +4900,7 @@
    "term": "Rapport",
    "pos": "noun, build rapport phrase",
    "definition_en": "The relationship between the teacher and learners. Teachers try to build or create good rapport and to have a good relationship with their learners because it makes the classroom a better place for learning.",
-   "definition_fa": "",
+   "definition_fa": "رابطهٔ مثبت و دوستانهٔ معلم و زبان‌آموز که انگیزه را بالا و اضطراب را پایین می‌برد.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -4957,7 +4957,7 @@
    "term": "Realia",
    "pos": "noun",
    "definition_en": "Real objects such as clothes, menus, timetables and leaflets that can be brought into the classroom for a range of purposes. For example, teachers might bring in different clothes to teach learners the words for those clothes (shirt, skirt, trousers etc.).",
-   "definition_fa": "",
+   "definition_fa": "اشیای واقعی که برای آموزش به کلاس آورده می‌شوند، مثل منو یا بلیت.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -5067,7 +5067,7 @@
    "term": "Register",
    "pos": "noun",
    "definition_en": "The formality or informality of language used in a particular situation. Formal register or formal language is language which is used in serious or important situations, e.g. in a job application. Informal register or informal language is language used in relaxed or friendly situations, e.g. with family or friends. Register may also refer to language which is specific to a particular group, e.g. technical register, scientific register. See formal, informal.",
-   "definition_fa": "",
+   "definition_fa": "سطحِ رسمی‌بودنِ زبان، متناسب با موقعیت و مخاطب.",
    "see": [
     "formal",
     "informal"
@@ -5289,7 +5289,7 @@
    "term": "Scaffolding",
    "pos": "noun",
    "definition_en": "Scaffolding is the temporary support that teachers (and parents) give to learners to help them to do a task, solve a problem, communicate or understand. Scaffolding can be through the use of teacher language to help learners understand language and use of language, e.g. using language at the learners’ level; asking questions; using gestures and actions when speaking; using L1 when necessary. Scaffolding can also be through the use of teaching strategies, e.g. providing language models or prompts; using substitution tables and language frames. Scaffolding is temporary support which is gradually taken away so that learners can eventually work without it.",
-   "definition_fa": "",
+   "definition_fa": "پشتیبانیِ موقتیِ معلم (مثل تصویر، قالبِ زبانی، زبانِ ساده‌تر) که به‌تدریج برداشته می‌شود تا زبان‌آموز مستقل شود.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -5765,7 +5765,7 @@
    "term": "Stress",
    "pos": "noun and verb",
    "definition_en": "Pronouncing part of a word (syllable) or part of a sentence louder and longer than other parts, e.g. VEGetable, I LOVE baNAnas. Some parts of words and sentences are stressed and some are unstressed. Contrastive stress is used when we compare or contrast and involves stressing the word we are comparing or contrasting, e.g. It was my AUNT who bought the car (not my uncle) or My aunt bought the CAKE (not the biscuits)! Primary, main stress Some sentences and longer words may have more than one part stressed, These words and sentences have a primary or main stress which is the part that is loudest and longest. For example, pronunciation – prəˌnʌn.siˈeɪ.ʃən. The main stress is on the /eɪ/ part of the word. The primary or main stress on a word is marked in the dictionary with e.g. prəˌnʌn.siˈeɪ.ʃən. Secondary stress is stress on a syllable or word in a sentence which is less strong than the primary (main) stress, e.g. /prəˌnʌn.siˈeɪ.ʃən/ has the primary or main stress on /eɪ/ and the secondary stress on /ˌnʌn/. Secondary stress is marked in the dictionary with e.g. prəˌnʌn.siˈeɪ.ʃən. Sentence stress is about the way some words in a sentence are stressed and some are unstressed. The stressed words are usually the information-carrying words or content words such as nouns, verbs, adjectives and adverbs. For example, It was a lovely evening, and the temperature was perfect. Word stress is about which syllable of a word is pronounced louder and longer – e.g. umBRELLa /ʌmˈbrelə/.",
-   "definition_fa": "",
+   "definition_fa": "تأکیدِ بیشتر روی یک هجا (تکیهٔ واژه) یا یک واژه در جمله (تکیهٔ جمله).",
    "see": [],
    "source": "TKT Glossary 2015"
   },
@@ -6012,7 +6012,7 @@
    "term": "Syllabus",
    "pos": "noun",
    "definition_en": "This describes the language and skills to be covered on a course, and the order in which they will be taught. The content of a syllabus will be based on the writer’s beliefs about language learning. See curriculum.",
-   "definition_fa": "",
+   "definition_fa": "فهرستِ سازمان‌یافتهٔ آنچه در یک دوره آموزش داده می‌شود.",
    "see": [
     "curriculum"
    ],
@@ -6040,7 +6040,7 @@
    "term": "Synonym",
    "pos": "noun",
    "definition_en": "A word which has the same, or nearly the same, meaning as another word; e.g. nice is a synonym of pleasant.",
-   "definition_fa": "",
+   "definition_fa": "واژه‌ای با معنای مشابهِ واژهٔ دیگر، مثل big و large.",
    "see": [],
    "source": "TKT Glossary 2015"
   },
