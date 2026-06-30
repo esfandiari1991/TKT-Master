@@ -122,6 +122,15 @@ struct ExtraTopic: Codable, Identifiable {
     var id: String { titleEn }
 }
 
+// MARK: - CELTA extension (organized course companion)
+struct CeltaFile: Codable { let categories: [CeltaCategory]; let questions: [Question] }
+struct CeltaCategory: Codable, Identifiable {
+    let titleEn: String
+    let titleFa: String
+    let topics: [ExtraTopic]
+    var id: String { titleEn }
+}
+
 // MARK: - Content store
 @MainActor
 final class ContentStore: ObservableObject {
@@ -132,6 +141,8 @@ final class ContentStore: ObservableObject {
     @Published var questionsByUnit: [Int: [Question]] = [:]
     @Published var mockTests: [MockTest] = []
     @Published var extras: [ExtraTopic] = []
+    @Published var celtaCategories: [CeltaCategory] = []
+    @Published var celtaQuestions: [Question] = []
 
     init() { load() }
 
@@ -159,6 +170,14 @@ final class ContentStore: ObservableObject {
         }
         if let m = decode("mocktests", MockFile.self) { mockTests = m.tests }
         if let e = decode("extras", ExtrasFile.self) { extras = e.topics }
+        if let c = decode("celta", CeltaFile.self) {
+            celtaCategories = c.categories
+            celtaQuestions = c.questions
+            for q in c.questions {
+                questions[q.id] = q
+                questionsByUnit[q.unit, default: []].append(q)
+            }
+        }
     }
 
     func unit(_ id: Int) -> UnitContent? { units[id] }

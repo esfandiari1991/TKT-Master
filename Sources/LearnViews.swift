@@ -448,28 +448,62 @@ struct UnitDetailView: View {
 // MARK: - CELTA extras
 struct CeltaView: View {
     @EnvironmentObject var store: ContentStore
+    @EnvironmentObject var progress: ProgressStore
     @AppStorage("showFa") private var showFa = false
+    @State private var showQuiz = false
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 18) {
                 ZStack {
                     RoundedRectangle(cornerRadius: 22, style: .continuous).fill(Theme.heroGradient)
                     VStack(alignment: .leading, spacing: 6) {
-                        Text("Beyond TKT — CLIL & CELTA").font(.serif(34)).foregroundStyle(.white)
-                        Text("Deeper teaching knowledge from CLIL and the CELTA tradition (Thornbury, Scrivener) — to help you reason your way to the best answer.")
+                        Text("CELTA Course — Trainee Companion").font(.serif(32)).foregroundStyle(.white)
+                        Text("Everything for the CELTA: practical teaching skills, full lesson planning, language analysis (MFP), teaching-skills frameworks, assessment, and trainer expectations (ITI-style). Plus CLIL extras.")
                             .font(.title3).foregroundStyle(.white.opacity(0.95))
-                        if showFa { FaWhite(text: "دانشِ عمیق‌ترِ تدریس از CLIL و سنتِ CELTA (Thornbury، Scrivener) — برای کمک به رسیدن به بهترین پاسخ.") }
+                        if showFa { FaWhite(text: "هرچه برای CELTA لازم داری: مهارت‌های عملیِ تدریس، نوشتنِ کاملِ طرح درس، تحلیلِ زبان (MFP)، چارچوب‌های مهارت، ارزیابی، و انتظاراتِ مربی (سبکِ ITI). به‌علاوهٔ مطالبِ CLIL.") }
                     }
                     .padding(26).frame(maxWidth: .infinity, alignment: .leading)
                 }
                 .appear(0)
 
-                ForEach(Array(store.extras.enumerated()), id: \.element.id) { i, topic in
-                    topicCard(topic).appear(0.05 * Double(i + 1))
+                Button { showQuiz = true; SFX.tap() } label: {
+                    HStack(spacing: 10) {
+                        Image(systemName: "checklist")
+                        Text("Take the CELTA quiz  (\(store.celtaQuestions.count) Q)").font(.title3.weight(.semibold))
+                        Spacer()
+                        Image(systemName: "play.circle.fill").font(.title2)
+                    }
+                    .foregroundStyle(.white).padding(18)
+                    .background(RoundedRectangle(cornerRadius: 16, style: .continuous).fill(Theme.orange))
+                    .shadow(color: Theme.orange.opacity(0.3), radius: 10, y: 5)
+                }
+                .buttonStyle(.plain).hoverLift().appear(0.05)
+
+                ForEach(Array(store.celtaCategories.enumerated()), id: \.element.id) { i, cat in
+                    categoryHeader(cat.titleEn, cat.titleFa).appear(0.06 * Double(i + 1))
+                    ForEach(cat.topics) { topic in topicCard(topic) }
+                }
+
+                if !store.extras.isEmpty {
+                    categoryHeader("CLIL & Teaching Extras", "مطالبِ تکمیلیِ CLIL و تدریس")
+                    ForEach(store.extras) { topic in topicCard(topic) }
                 }
             }
             .padding(30).frame(maxWidth: .infinity, alignment: .leading)
         }
+        .sheet(isPresented: $showQuiz) {
+            ReviewSheet(questions: store.celtaQuestions)
+                .environmentObject(store).environmentObject(progress)
+        }
+    }
+
+    func categoryHeader(_ en: String, _ faTitle: String) -> some View {
+        VStack(alignment: .leading, spacing: 4) {
+            Text(en).font(.serif(24)).foregroundStyle(Theme.orangeDeep)
+            if showFa { PersianText(text: faTitle, font: .title3) }
+        }
+        .padding(.top, 10)
+        .frame(maxWidth: .infinity, alignment: .leading)
     }
 
     func topicCard(_ topic: ExtraTopic) -> some View {

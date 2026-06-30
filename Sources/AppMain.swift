@@ -50,7 +50,7 @@ struct RootView: View {
                         .tag(SidebarItem.glossary)
                     Label("Mock Tests", systemImage: "checkmark.seal.fill")
                         .tag(SidebarItem.mockTests)
-                    Label("CELTA Extras", systemImage: "star.fill")
+                    Label("CELTA Course", systemImage: "graduationcap.fill")
                         .tag(SidebarItem.celta)
                 }
             }
