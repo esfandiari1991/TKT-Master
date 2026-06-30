@@ -139,6 +139,14 @@
                 { "en": "Eliciting > telling: it engages and reveals what they know.", "fa": "استخراج بهتر از گفتن است: مشارکت می‌سازد و دانسته‌ها را آشکار می‌کند." },
                 { "en": "Drilling (choral then individual) builds accurate pronunciation.", "fa": "drilling (گروهی سپس فردی) تلفظِ دقیق می‌سازد." },
                 { "en": "Echo: avoid repeating learners' answers unnecessarily.", "fa": "Echo: تکرارِ بی‌مورد پاسخِ زبان‌آموز را کنار بگذار." }
+              ] },
+            { "heading_en": "A model instruction sequence", "heading_fa": "یک توالیِ نمونهٔ دستوردهی",
+              "body_en": "Set up a task in a fixed, reliable order: (1) get attention; (2) give the instruction in short chunks, with a demonstration; (3) hand out materials AFTER instructing (not before, or learners read instead of listening); (4) check with ICQs; (5) start, then monitor. Keep your language graded and use gestures. This sequence prevents the most common trainee problem: confused, slow set-ups.",
+              "body_fa": "تکلیف را با ترتیبی ثابت و مطمئن راه بینداز: (۱) جلبِ توجه؛ (۲) دستور را در تکه‌های کوتاه، با نمایش بده؛ (۳) مطالب را بعد از دستوردادن پخش کن (نه قبلش، وگرنه زبان‌آموز به‌جای گوش‌دادن می‌خواند)؛ (۴) با ICQ چک کن؛ (۵) شروع کن، بعد نظارت کن. زبانت را grade کن و از اشاره استفاده کن. این توالی رایج‌ترین مشکلِ تازه‌کارها را حل می‌کند: راه‌اندازیِ گیج‌کننده و کند.",
+              "bullets": [
+                { "en": "Instruct → demonstrate → hand out → ICQ → go.", "fa": "دستور ← نمایش ← پخشِ مطالب ← ICQ ← شروع." },
+                { "en": "Never hand out worksheets before you've instructed.", "fa": "هیچ‌وقت کاربرگ را پیش از دستوردادن پخش نکن." },
+                { "en": "ICQ examples: 'Alone or in pairs? How long? Speak or write?'", "fa": "نمونهٔ ICQ: «تنها یا جفتی؟ چقدر وقت؟ صحبت یا نوشتن؟»" }
               ] }
           ]
         },
@@ -154,6 +162,13 @@
                 { "en": "Monitor: listen in, note errors, help discreetly.", "fa": "نظارت: گوش بده، خطا یادداشت کن، نامحسوس کمک کن." },
                 { "en": "Nominate by name AFTER asking the question.", "fa": "بعد از پرسیدنِ سؤال، با نام صدا بزن." },
                 { "en": "Give wait time after a question — don't rush.", "fa": "بعد از سؤال زمانِ انتظار بده — عجله نکن." }
+              ] },
+            { "heading_en": "Setting up pair & group work smoothly", "heading_fa": "راه‌اندازیِ روانِ کارِ جفتی و گروهی",
+              "body_en": "Form pairs/groups quickly and visibly (gesture 'you and you'), so no time is lost. During the task, monitor actively: stand back at first to let learners start, then move quietly to listen, note language for feedback, and help only when needed. Vary groupings across the lesson so learners work with different partners — it keeps energy up and spreads stronger/weaker learners.",
+              "body_fa": "جفت/گروه را سریع و دیداری تشکیل بده (با اشاره «تو و تو»)، تا وقتی هدر نرود. حین تکلیف، فعالانه نظارت کن: اول کنار بایست تا زبان‌آموز شروع کند، بعد آرام حرکت کن تا گوش بدهی، زبان را برای بازخورد یادداشت کنی، و فقط هنگام نیاز کمک کنی. در طولِ درس گروه‌بندی را عوض کن تا زبان‌آموز با همتاهای مختلف کار کند — انرژی را بالا نگه می‌دارد و قوی/ضعیف را پخش می‌کند.",
+              "bullets": [
+                { "en": "Make grouping visible and fast — don't let it eat time.", "fa": "گروه‌بندی را دیداری و سریع کن — نگذار وقت بخورد." },
+                { "en": "Monitor: step back → listen → note → help if needed.", "fa": "نظارت: کنار برو ← گوش بده ← یادداشت کن ← در صورتِ نیاز کمک." }
               ] }
           ]
         },
@@ -167,6 +182,13 @@
               "bullets": [
                 { "en": "Plan your board: a clear layout learners can copy.", "fa": "تخته را طراحی کن: چیدمانِ روشن که زبان‌آموز بتواند بنویسد." },
                 { "en": "Specific praise ('great use of past tense') beats 'good job'.", "fa": "تشویقِ مشخص («کاربردِ خوبِ گذشته») بهتر از «آفرین» است." }
+              ] },
+            { "heading_en": "Using your voice and the board well", "heading_fa": "استفادهٔ خوب از صدا و تخته",
+              "body_en": "Vary your voice — project clearly, slow down for new language, and use pauses for emphasis. Plan the board before the lesson: divide it (e.g. target language on one side, new vocabulary on the other), write legibly, and leave a clear record learners can copy. Don't talk to the board with your back to the class. A planned, tidy board is itself a strong teaching aid.",
+              "body_fa": "صدایت را متنوع کن — واضح بفرست، برای زبانِ جدید آهسته‌تر شو، و برای تأکید مکث کن. تخته را پیش از درس طراحی کن: تقسیمش کن (مثلاً زبانِ هدف یک‌طرف، واژگانِ جدید طرفِ دیگر)، خوانا بنویس، و ثبتِ روشنی بگذار که زبان‌آموز بتواند بنویسد. پشت‌به‌کلاس با تخته صحبت نکن. تختهٔ طراحی‌شده و مرتب، خودش وسیلهٔ کمک‌آموزشیِ قوی است.",
+              "bullets": [
+                { "en": "Project, slow down for new language, pause for emphasis.", "fa": "صدا را برسان، برای زبانِ جدید آهسته‌تر، برای تأکید مکث." },
+                { "en": "Plan & divide the board; keep a clear, copyable record.", "fa": "تخته را طراحی و تقسیم کن؛ ثبتِ روشن و قابلِ‌نوشتن نگه دار." }
               ] }
           ]
         },
@@ -181,6 +203,14 @@
                 { "en": "Accuracy → correct now; fluency → note & delay.", "fa": "دقت ← همان لحظه؛ روانی ← یادداشت و تأخیر." },
                 { "en": "Differentiation: extra/harder tasks for fast finishers.", "fa": "Differentiation: تکلیفِ بیشتر/سخت‌تر برای کسانی که زود تمام می‌کنند." },
                 { "en": "Use mother tongue sparingly and purposefully.", "fa": "از زبان مادری کم و هدفمند استفاده کن." }
+              ] },
+            { "heading_en": "Correction techniques in detail", "heading_fa": "فنونِ تصحیح به‌تفصیل",
+              "body_en": "Have a toolkit and choose by activity. To prompt SELF-correction: repeat up to the error ('She go…?'), use fingers to show a missing word, or name the error type ('tense?'). For PEER correction, ask 'Does everyone agree?'. Use RECASTING (saying it back correctly) gently in fluency work. For delayed correction, write a few errors (and good examples) on the board after the task and work on them with the whole class. Always correct supportively — protect rapport.",
+              "body_fa": "یک جعبه‌ابزار داشته باش و بر اساسِ فعالیت انتخاب کن. برای ترغیب به خوداصلاحی: تا قبلِ خطا تکرار کن («She go…?»)، با انگشت واژهٔ جاافتاده را نشان بده، یا نوعِ خطا را بگو («زمان؟»). برای اصلاحِ همتا بپرس «همه موافق‌اند؟». در کارِ روانی، بازگویی (recast) را به‌نرمی به‌کار ببر. برای تصحیحِ باتأخیر، چند خطا (و نمونهٔ خوب) را بعد از تکلیف روی تخته بنویس و با کلِ کلاس رویشان کار کن. همیشه حمایتگرانه تصحیح کن — رابطه را حفظ کن.",
+              "bullets": [
+                { "en": "Prompt self-correction first — it's the most valuable.", "fa": "اول خوداصلاحی را تلنگر بزن — باارزش‌ترین است." },
+                { "en": "Delayed feedback: errors + good examples on the board.", "fa": "بازخوردِ باتأخیر: خطاها + نمونه‌های خوب روی تخته." },
+                { "en": "Recast gently in fluency work; protect rapport.", "fa": "در کارِ روانی به‌نرمی recast کن؛ رابطه را حفظ کن." }
               ] }
           ]
         }
@@ -202,6 +232,14 @@
                 { "en": "Subsidiary aims support the main aim (e.g. a skill that helps).", "fa": "اهداف فرعی پشتیبانِ هدف اصلی‌اند (مثلاً مهارتی که کمک می‌کند)." },
                 { "en": "Personal aim: what YOU want to improve (e.g. reduce TTT).", "fa": "هدف شخصی: چیزی که می‌خواهی در خودت بهتر کنی (مثلاً کاهشِ TTT)." },
                 { "en": "Anticipated problems + solutions for BOTH language and management.", "fa": "مشکلاتِ پیش‌بینی‌شده + راه‌حل، هم برای زبان و هم مدیریت." }
+              ] },
+            { "heading_en": "A model background sheet — what to actually write", "heading_fa": "یک برگهٔ پیش‌زمینهٔ نمونه — دقیقاً چه بنویسیم",
+              "body_en": "Tutors want specifics, not vague notes. For the MAIN AIM, name the exact language or skill and the context ('to talk about past holidays using the past simple'). For each piece of TARGET LANGUAGE, write a small table: meaning (how you'll convey & check it, incl. a CCQ), form (how it's built), and pronunciation (stress/weak forms). For ASSUMPTIONS, state the prior knowledge you're building on. For ANTICIPATED PROBLEMS, write the problem AND your concrete solution side by side.",
+              "body_fa": "مربیان جزئیات می‌خواهند، نه یادداشتِ مبهم. برای هدفِ اصلی، دقیقاً زبان یا مهارت و بافت را بنویس («صحبت دربارهٔ تعطیلاتِ گذشته با گذشتهٔ ساده»). برای هر تکهٔ زبانِ هدف، یک جدولِ کوچک بنویس: معنا (چطور منتقل و بررسی می‌کنی، همراه با یک CCQ)، فرم (چطور ساخته می‌شود)، و تلفظ (تکیه/شکلِ ضعیف). برای پیش‌فرض‌ها، دانشِ پیشینی را که بر آن می‌سازی بنویس. برای مشکلاتِ پیش‌بینی‌شده، مشکل و راه‌حلِ مشخصش را کنارِ هم بنویس.",
+              "bullets": [
+                { "en": "Main aim: 'By the end, Ss will be better able to [do X] in the context of [Y].'", "fa": "هدفِ اصلی: «در پایان، زبان‌آموز بهتر بتواند [کارِ X] را در بافتِ [Y] انجام دهد.»" },
+                { "en": "Target language table: Meaning + CCQ | Form | Pronunciation.", "fa": "جدولِ زبانِ هدف: معنا + CCQ | فرم | تلفظ." },
+                { "en": "Problem → Solution, e.g. 'Ss confuse past simple/continuous → use a timeline + CCQs'.", "fa": "مشکل ← راه‌حل، مثلاً «اشتباهِ گذشتهٔ ساده/استمراری ← خط‌زمان + CCQ»." }
               ] }
           ]
         },
@@ -215,6 +253,14 @@
               "bullets": [
                 { "en": "Columns: Stage | Stage aim | Procedure | Time | Interaction.", "fa": "ستون‌ها: مرحله | هدفِ مرحله | روال | زمان | تعامل." },
                 { "en": "Each stage aim answers: why am I doing this?", "fa": "هدفِ هر مرحله به این پاسخ می‌دهد: چرا این کار را می‌کنم؟" }
+              ] },
+            { "heading_en": "Writing strong stage aims & realistic timing", "heading_fa": "نوشتنِ هدفِ مرحلهٔ قوی و زمان‌بندیِ واقع‌گرایانه",
+              "body_en": "A weak stage aim names the activity ('do exercise 2'); a strong one names the PURPOSE for the learners ('to give controlled written practice of the past simple'). Start stage aims with 'to…'. For timing, be realistic and add a little flexibility — new teachers usually under-time presentation and over-time set-up. Note the interaction pattern for every stage (T–S, S–S, pairs, groups, Ind), because tutors check that learners — not you — do most of the work.",
+              "body_fa": "هدفِ مرحلهٔ ضعیف نامِ فعالیت را می‌گوید («تمرین ۲ را انجام بده»)؛ هدفِ قوی هدفِ زبان‌آموز را می‌گوید («تمرینِ نوشتاریِ کنترل‌شدهٔ گذشتهٔ ساده»). هدفِ مرحله را با «to…» شروع کن. در زمان‌بندی واقع‌گرا باش و کمی انعطاف بگذار — معلمِ تازه‌کار معمولاً برای ارائه کم و برای راه‌اندازی زیاد زمان می‌گذارد. الگوی تعاملِ هر مرحله را بنویس (T–S، S–S، جفتی، گروهی، Ind)، چون مربی چک می‌کند که بیشترِ کار را زبان‌آموز انجام می‌دهد، نه تو.",
+              "bullets": [
+                { "en": "Strong stage aim: 'to provide freer oral practice of giving opinions'.", "fa": "هدفِ مرحلهٔ قوی: «فراهم‌کردنِ تمرینِ گفتاریِ آزادترِ بیانِ نظر»." },
+                { "en": "If a stage runs long, protect the main-aim stages; trim optional ones.", "fa": "اگر مرحله‌ای طول کشید، مراحلِ هدفِ اصلی را حفظ کن؛ مراحلِ اختیاری را کوتاه کن." },
+                { "en": "Aim for more S–S than T–S time across the lesson.", "fa": "در کلِ درس، زمانِ S–S را بیشتر از T–S هدف بگیر." }
               ] }
           ]
         },
@@ -229,6 +275,14 @@
                 { "en": "Grammar/lexis lesson → PPP or Test–Teach–Test or guided discovery.", "fa": "درسِ گرامر/واژگان ← PPP یا Test–Teach–Test یا کشفِ هدایت‌شده." },
                 { "en": "Reading/Listening → receptive-skills framework (see Skills category).", "fa": "خواندن/شنیدن ← چارچوبِ مهارتِ دریافتی (بخشِ مهارت‌ها)." },
                 { "en": "Speaking/Writing → productive-skills framework.", "fa": "صحبت/نوشتن ← چارچوبِ مهارتِ تولیدی." }
+              ] },
+            { "heading_en": "Decision guide — which framework, when", "heading_fa": "راهنمای تصمیم — کدام چارچوب، کِی",
+              "body_en": "Pick the framework from your aim and your learners. New language everyone needs → PPP. Language some may already know → Test–Teach–Test (diagnose first). You want learners to notice rules themselves → guided discovery. A reading/listening focus → receptive-skills framework. A speaking/writing focus → productive-skills framework. Whatever you choose, the shape must serve the main aim — don't force a framework that doesn't fit.",
+              "body_fa": "چارچوب را از روی هدف و زبان‌آموزانت انتخاب کن. زبانِ جدید که همه لازم دارند ← PPP. زبانی که بعضی شاید بدانند ← Test–Teach–Test (اول تشخیص). می‌خواهی زبان‌آموز خودش قاعده را ببیند ← کشفِ هدایت‌شده. تمرکزِ خواندن/شنیدن ← چارچوبِ مهارتِ دریافتی. تمرکزِ صحبت/نوشتن ← چارچوبِ مهارتِ تولیدی. هرچه انتخاب کردی، شکل باید به هدفِ اصلی خدمت کند — چارچوبی را که جور نیست تحمیل نکن.",
+              "bullets": [
+                { "en": "Brand-new grammar/lexis → PPP or guided discovery.", "fa": "گرامر/واژگانِ کاملاً جدید ← PPP یا کشفِ هدایت‌شده." },
+                { "en": "Likely partial knowledge → Test–Teach–Test.", "fa": "دانشِ احتمالاً ناقص ← Test–Teach–Test." },
+                { "en": "Skills lesson → the matching receptive/productive shape.", "fa": "درسِ مهارت ← شکلِ دریافتی/تولیدیِ متناظر." }
               ] }
           ]
         }
