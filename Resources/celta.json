@@ -304,6 +304,13 @@
                 { "en": "Form: e.g. 'have/has + past participle' for present perfect.", "fa": "فرم: مثلاً «have/has + اسم مفعول» برای حال کامل." },
                 { "en": "Pronunciation: mark the main stress and weak forms.", "fa": "تلفظ: تکیهٔ اصلی و شکل‌های ضعیف را مشخص کن." },
                 { "en": "CCQ for 'used to': 'Does he do it now? (No)'.", "fa": "CCQ برای «used to»: «الان انجامش می‌دهد؟ (نه)»." }
+              ] },
+            { "heading_en": "A worked MFP analysis (present perfect)", "heading_fa": "یک تحلیلِ MFP نمونه (حال کامل)",
+              "body_en": "Take 'I've been to Japan.' MEANING: an experience at an unspecified past time; the exact time is unknown/unimportant. Convey it with a timeline (a cross somewhere in the past, no date) and CHECK with CCQs: 'Do we know exactly when? (No) Is it finished? (Yes) Is the experience important now? (Yes)'. FORM: subject + have/has + past participle; contraction I've; question 'Have you ever…?'; negative 'haven't'. PRONUNCIATION: weak 'have' /əv/, stress on the main verb, contraction /aɪv/.",
+              "body_fa": "جملهٔ «I've been to Japan» را در نظر بگیر. معنا: تجربه‌ای در زمانِ گذشتهٔ نامشخص؛ زمانِ دقیق نامعلوم/بی‌اهمیت است. با خط‌زمان منتقلش کن (یک ضربدر جایی در گذشته، بدون تاریخ) و با CCQ بسنج: «دقیقاً می‌دانیم کِی؟ (نه) تمام شده؟ (بله) تجربه الان مهم است؟ (بله)». فرم: فاعل + have/has + اسم مفعول؛ کوتاه‌شدهٔ I've؛ سؤال «Have you ever…?»؛ منفی «haven't». تلفظ: شکلِ ضعیفِ have، تکیه روی فعلِ اصلی، کوتاه‌شدهٔ /aɪv/.",
+              "bullets": [
+                { "en": "Always pair each analysis with how you'll convey + check it.", "fa": "هر تحلیل را با شیوهٔ انتقال + بررسی جفت کن." },
+                { "en": "Write 2–3 CCQs that avoid the target language itself.", "fa": "۲ تا ۳ CCQ بنویس که از خودِ زبانِ هدف استفاده نکنند." }
               ] }
           ]
         }
@@ -323,6 +330,13 @@
               "bullets": [
                 { "en": "Always give a reason to read/listen (a task) first.", "fa": "همیشه اول دلیلی برای خواندن/شنیدن بده (یک تکلیف)." },
                 { "en": "Gist before detail: general understanding, then specifics.", "fa": "اول gist بعد جزئیات: درکِ کلی، سپس جزئی." }
+              ] },
+            { "heading_en": "Setting tasks well & common pitfalls", "heading_fa": "تکلیف‌گذاریِ خوب و دام‌های رایج",
+              "body_en": "Give a task BEFORE each read/listen so learners have a reason and don't try to understand every word. Keep the gist task short (one question) with a tight time limit. Let learners check answers in pairs before whole-class feedback — it lowers anxiety and gives speaking. Common pitfalls: pre-teaching too many words (only pre-teach what blocks the task), making the gist task too hard, and 'teaching' the text by reading it aloud yourself.",
+              "body_fa": "پیش از هر خواندن/شنیدن یک تکلیف بده تا زبان‌آموز دلیلی داشته باشد و نخواهد هر واژه را بفهمد. تکلیفِ gist را کوتاه نگه دار (یک سؤال) با زمانِ محدود. بگذار زبان‌آموز پاسخ‌ها را جفتی چک کند پیش از بازخوردِ کل‌کلاس — اضطراب را کم و فرصتِ صحبت می‌دهد. دام‌های رایج: پیش‌آموزشِ واژه‌های زیاد (فقط آنچه مانعِ تکلیف است)، سخت‌بودنِ تکلیفِ gist، و «تدریسِ» متن با بلندخواندنِ خودت.",
+              "bullets": [
+                { "en": "One short gist question, tight time, then pair-check.", "fa": "یک سؤالِ کوتاهِ gist، زمانِ فشرده، بعد بررسیِ جفتی." },
+                { "en": "Don't read the text aloud for them — let them read/listen.", "fa": "متن را برایشان بلند نخوان — بگذار خودشان بخوانند/بشنوند." }
               ] }
           ]
         },
@@ -336,6 +350,13 @@
               "bullets": [
                 { "en": "Give a model and useful phrases before the task.", "fa": "پیش از تکلیف، نمونه و عبارت‌های مفید بده." },
                 { "en": "Feedback on content first, then on language.", "fa": "اول بازخوردِ محتوا، بعد زبان." }
+              ] },
+            { "heading_en": "Provide a model & useful language first", "heading_fa": "اول نمونه و زبانِ مفید بده",
+              "body_en": "Before a speaking or writing task, give learners a model (an example dialogue/text) and the useful language they'll need (functional phrases, linkers), and let them prepare. This 'priming' raises the quality of output and lowers anxiety. During the task, step back and monitor; resist correcting in the moment. Then give feedback: praise good language and the message, and select two or three key errors to work on — don't list everything.",
+              "body_fa": "پیش از تکلیفِ صحبت یا نوشتن، به زبان‌آموز یک نمونه (دیالوگ/متنِ مثال) و زبانِ مفیدِ موردنیاز (عبارت‌های کارکردی، ربط‌دهنده‌ها) بده و بگذار آماده شود. این «آماده‌سازی» کیفیتِ خروجی را بالا و اضطراب را پایین می‌برد. حین تکلیف، کنار برو و نظارت کن؛ از تصحیحِ لحظه‌ای پرهیز کن. بعد بازخورد بده: زبانِ خوب و پیام را تحسین کن، و دو سه خطای کلیدی را برای کار انتخاب کن — همه‌چیز را فهرست نکن.",
+              "bullets": [
+                { "en": "Model + useful language + preparation → better output.", "fa": "نمونه + زبانِ مفید + آماده‌سازی ← خروجیِ بهتر." },
+                { "en": "Select a few key errors for feedback — not a long list.", "fa": "چند خطای کلیدی را برای بازخورد انتخاب کن — نه فهرستِ بلند." }
               ] }
           ]
         }
@@ -355,6 +376,13 @@
               "bullets": [
                 { "en": "The 4 assignments: Focus on the Learner; Language Related Tasks; Language Skills Related Tasks; Lessons from the Classroom.", "fa": "چهار تکلیف: تمرکز بر زبان‌آموز؛ تکالیفِ مرتبط با زبان؛ تکالیفِ مرتبط با مهارت‌های زبانی؛ درس‌هایی از کلاس." },
                 { "en": "You build a portfolio; reflection after each TP is essential.", "fa": "یک پوشه‌کار می‌سازی؛ بازاندیشی بعد از هر TP ضروری است." }
+              ] },
+            { "heading_en": "Passing the teaching practice (and what fails it)", "heading_fa": "قبولی در تمرینِ تدریس (و آنچه ردش می‌کند)",
+              "body_en": "You don't have to be perfect — you have to meet the criteria consistently and improve. Strong TP shows: clear, achievable aims; staged, well-timed lessons; learner-centred activities with low TTT; clear instructions and CCQs; purposeful monitoring and feedback; and acting on previous feedback. Common reasons trainees struggle: vague aims, too much teacher talk, unclear instructions, no meaning checking, running out of time, and not responding to feedback.",
+              "body_fa": "لازم نیست بی‌نقص باشی — باید معیارها را پیوسته برآورده و پیشرفت کنی. TP قوی نشان می‌دهد: اهدافِ روشن و دست‌یافتنی؛ درس‌های مرحله‌ای و خوش‌زمان‌بندی؛ فعالیت‌های زبان‌آموزمحور با TTT پایین؛ دستورالعملِ روشن و CCQ؛ نظارت و بازخوردِ هدفمند؛ و عمل به بازخوردِ قبلی. دلایلِ رایجِ دشواری: اهدافِ مبهم، صحبتِ زیادِ معلم، دستورالعملِ نامفهوم، نبودِ بررسیِ معنا، کم‌آوردنِ وقت، و بی‌توجهی به بازخورد.",
+              "bullets": [
+                { "en": "Consistency + improvement matter more than one perfect lesson.", "fa": "پیوستگی + پیشرفت مهم‌تر از یک درسِ بی‌نقص است." },
+                { "en": "Top failers: vague aims, high TTT, unclear instructions, no CCQs.", "fa": "ردکننده‌های اصلی: اهدافِ مبهم، TTT بالا، دستورالعملِ نامفهوم، نبودِ CCQ." }
               ] }
           ]
         }
@@ -376,6 +404,12 @@
                 { "en": "Low TTT, high STT; learners do the work.", "fa": "TTT پایین، صحبتِ زبان‌آموز بالا؛ کار را زبان‌آموز انجام دهد." },
                 { "en": "Show you used last lesson's feedback in this one.", "fa": "نشان بده بازخوردِ درسِ قبل را در این درس به‌کار بسته‌ای." },
                 { "en": "Professionalism: deadlines, collaboration, reflection.", "fa": "حرفه‌ای‌گری: رعایتِ ضرب‌الاجل، همکاری، بازاندیشی." }
+              ] },
+            { "heading_en": "Reflection & action points after each lesson", "heading_fa": "بازاندیشی و نقاطِ اقدام بعد از هر درس",
+              "body_en": "After every teaching practice, write an honest reflection: what went well, what didn't, and WHY. Turn it into one or two concrete action points (e.g. 'next time, set up pairs before handing out the worksheet' or 'cut my TTT in the presentation'). Then visibly do them in your next lesson. Tutors at centres like ITI value trainees who reflect honestly and clearly act on feedback — this, more than natural talent, is what earns higher grades.",
+              "body_fa": "بعد از هر تمرینِ تدریس، یک بازاندیشیِ صادقانه بنویس: چه خوب شد، چه نشد، و چرا. آن را به یکی دو نقطهٔ اقدامِ مشخص تبدیل کن (مثلاً «دفعهٔ بعد جفت‌ها را پیش از پخشِ کاربرگ تشکیل بده» یا «TTTم را در ارائه کم کن»). بعد در درسِ بعدی به‌وضوح انجامشان بده. مربیان در مراکزی مثل ITI به traineeهایی ارزش می‌دهند که صادقانه بازاندیشی و به‌روشنی به بازخورد عمل می‌کنند — همین، بیش از استعدادِ ذاتی، نمرهٔ بالاتر می‌آورد.",
+              "bullets": [
+                { "en": "Reflect → 1–2 action points → show them next lesson.", "fa": "بازاندیشی ← ۱ تا ۲ نقطهٔ اقدام ← در درسِ بعد نشانشان بده." }
               ] }
           ]
         }
@@ -464,6 +498,12 @@
               "bullets": [
                 { "en": "Guided discovery raises engagement and retention.", "fa": "کشفِ هدایت‌شده مشارکت و ماندگاری را بالا می‌برد." },
                 { "en": "Use timelines for tenses; substitution tables for form.", "fa": "برای زمان‌ها از خط‌زمان؛ برای فرم از جدولِ جایگزینی استفاده کن." }
+              ] },
+            { "heading_en": "A guided-discovery grammar stage", "heading_fa": "یک مرحلهٔ گرامرِ کشفِ هدایت‌شده",
+              "body_en": "Give learners a few clear examples in context (e.g. from a text). Ask guided questions that lead them to the rule: 'Which verb form is used? Do we know the exact time? Why this form and not the past simple?'. Let them check in pairs, then confirm the rule together and clarify form and pronunciation. This is more memorable than simply stating the rule, and it shows the tutor you can teach inductively.",
+              "body_fa": "چند مثالِ روشن در بافت بده (مثلاً از یک متن). با سؤال‌های هدایت‌شده آن‌ها را به قاعده برسان: «کدام شکلِ فعل به‌کار رفته؟ زمانِ دقیق را می‌دانیم؟ چرا این شکل، نه گذشتهٔ ساده؟». بگذار جفتی بررسی کنند، بعد قاعده را با هم تأیید و فرم و تلفظ را روشن کن. این از گفتنِ صرفِ قاعده ماندگارتر است و به مربی نشان می‌دهد می‌توانی استقرایی تدریس کنی.",
+              "bullets": [
+                { "en": "Examples → guided questions → learners state the rule.", "fa": "مثال‌ها ← سؤال‌های هدایت‌شده ← زبان‌آموز قاعده را می‌گوید." }
               ] }
           ]
         },
@@ -477,6 +517,12 @@
               "bullets": [
                 { "en": "Teach chunks/collocations, not just single words.", "fa": "بسته‌ها/هم‌آیی‌ها را آموزش بده، نه فقط واژهٔ تک." },
                 { "en": "Recycling is essential for long-term memory.", "fa": "بازآموزی برای حافظهٔ بلندمدت ضروری است." }
+              ] },
+            { "heading_en": "Clarifying a new word — the full routine", "heading_fa": "روشن‌سازیِ واژهٔ جدید — روالِ کامل",
+              "body_en": "For each new word: convey MEANING (picture, example sentence, synonym/antonym, or definition) and CHECK with a CCQ; model and DRILL the pronunciation (mark the stress); show the FORM (part of speech, spelling, any collocation). Then give practice that uses the word meaningfully (matching, gap-fill, personalised sentences). Avoid translating everything — get learners working out and using the word.",
+              "body_fa": "برای هر واژهٔ جدید: معنا را منتقل کن (تصویر، جملهٔ مثال، مترادف/متضاد یا تعریف) و با CCQ بسنج؛ تلفظ را الگو و drill کن (تکیه را مشخص کن)؛ فرم را نشان بده (نوعِ واژه، املا، هم‌آیی). بعد تمرینی بده که واژه را معنادار به‌کار ببرد (تطبیق، جای‌خالی، جملهٔ شخصی). از ترجمهٔ همه‌چیز پرهیز کن — بگذار زبان‌آموز واژه را بسازد و به‌کار ببرد.",
+              "bullets": [
+                { "en": "Meaning + CCQ → pronunciation (drill) → form → use.", "fa": "معنا + CCQ ← تلفظ (drill) ← فرم ← کاربرد." }
               ] }
           ]
         },
@@ -489,6 +535,12 @@
               "body_fa": "روی واج‌ها (جفت‌های کمینه)، تکیهٔ واژه و جمله، شکل‌های ضعیف و آهنگ کار کن. کوتاه و مکرر drill کن و تکیه را روی تخته مشخص کن.",
               "bullets": [
                 { "en": "Mark stress with a circle above the stressed syllable.", "fa": "تکیه را با دایره‌ای بالای هجای تکیه‌دار نشان بده." }
+              ] },
+            { "heading_en": "Drilling pronunciation effectively", "heading_fa": "drillِ مؤثرِ تلفظ",
+              "body_en": "Model the word/phrase clearly first (say it 2–3 times). Then drill chorally (whole class together) to give safe practice, then individually to check and build confidence. Keep drills short and lively, exaggerate the stress and any weak forms, and use your hand or fingers to show stress and linking. Correct gently and re-drill. Little and often beats one long drill.",
+              "body_fa": "اول واژه/عبارت را روشن الگو بده (۲ تا ۳ بار بگو). بعد گروهی drill کن (کلِ کلاس با هم) برای تمرینِ امن، سپس فردی برای بررسی و ساختِ اعتمادبه‌نفس. drillها را کوتاه و سرزنده نگه دار، تکیه و شکل‌های ضعیف را اغراق کن، و با دست یا انگشت تکیه و اتصال را نشان بده. به‌نرمی تصحیح و دوباره drill کن. کوتاه و مکرر بهتر از یک drillِ بلند است.",
+              "bullets": [
+                { "en": "Model → choral drill → individual drill → correct → re-drill.", "fa": "الگو ← drillِ گروهی ← drillِ فردی ← تصحیح ← drillِ دوباره." }
               ] }
           ]
         }
@@ -508,6 +560,14 @@
               "bullets": [
                 { "en": "Monitor without hovering; step back during fluency tasks.", "fa": "نظارت کن بدون اینکه بالای سرشان بایستی؛ حین کارِ روانی کنار برو." },
                 { "en": "Rapport raises motivation and lowers anxiety.", "fa": "رابطهٔ خوب انگیزه را بالا و اضطراب را پایین می‌برد." }
+              ] },
+            { "heading_en": "Handling common classroom problems", "heading_fa": "مدیریتِ مشکلاتِ رایجِ کلاس",
+              "body_en": "Plan for the usual challenges. A dominant learner → structure turns with pairs/groups and assigned roles. A reluctant/quiet learner → start in pairs (safer), give thinking/wait time, and praise contributions. Mixed ability → differentiate with extension tasks and flexible grouping. Early finishers → have an extra task ready. Off-task behaviour → re-engage with clearer instructions or a livelier task, calmly and fairly. Anticipating these on your plan is exactly what tutors reward.",
+              "body_fa": "برای چالش‌های همیشگی برنامه داشته باش. زبان‌آموزِ غالب ← نوبت‌ها را با جفت/گروه و نقش‌های مشخص ساختار بده. زبان‌آموزِ کم‌حرف/مردد ← با جفت شروع کن (امن‌تر)، زمانِ فکر/انتظار بده، و مشارکت را تحسین کن. سطحِ مختلط ← با تکلیفِ تکمیلی و گروه‌بندیِ منعطف differentiate کن. زودتمام‌کن‌ها ← تکلیفِ اضافه آماده داشته باش. رفتارِ خارج‌از‌تکلیف ← با دستورالعملِ روشن‌تر یا تکلیفِ سرزنده‌تر، آرام و عادلانه دوباره درگیر کن. پیش‌بینیِ این‌ها در طرحت دقیقاً همان چیزی است که مربی پاداش می‌دهد.",
+              "bullets": [
+                { "en": "Dominant learner → roles + pair/group structure.", "fa": "زبان‌آموزِ غالب ← نقش + ساختارِ جفت/گروه." },
+                { "en": "Quiet learner → pairs first, wait time, praise.", "fa": "زبان‌آموزِ کم‌حرف ← اول جفت، زمانِ انتظار، تشویق." },
+                { "en": "Anticipate these on the plan (management problems + solutions).", "fa": "این‌ها را در طرح پیش‌بینی کن (مشکلاتِ مدیریت + راه‌حل)." }
               ] }
           ]
         }
